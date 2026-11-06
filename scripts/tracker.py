@@ -175,6 +175,7 @@ def build_outputs(date: str, catalog: dict, now: dict, allow_fetch: bool) -> dic
     mdir.mkdir(parents=True, exist_ok=True)
     for name in (f"{date}.json", "latest.json"):
         (mdir / name).write_text(json.dumps(result, indent=1))
+    write_dashboard_files(result)
 
     # Full spreadsheet of every single.
     with (DATA / "latest.csv").open("w", newline="") as f:
@@ -191,6 +192,33 @@ def build_outputs(date: str, catalog: dict, now: dict, allow_fetch: bool) -> dic
             w.writerow([c["name"], c["number"], c["set"], c["rarity"], sub, p,
                         o1 or "", *ch(o1), o7 or "", *ch(o7), c["url"]])
     return result
+
+
+def write_dashboard_files(result: dict) -> None:
+    """Flat tables the dashboard loads: one row per listed card, plus a one-row summary."""
+    rows = []
+    for period in ("day", "week"):
+        block = result.get(period)
+        if not block:
+            continue
+        for lst in ("gain", "drop", "gain_usd", "drop_usd"):
+            for i, r in enumerate(block[lst], 1):
+                rows.append({"key": f"{period}-{lst}-{i}", "period": period, "list": lst, "rank": i, **r})
+    for i, r in enumerate(result["most_valuable"], 1):
+        rows.append({"key": f"now-top-{i}", "period": "now", "list": "top", "rank": i,
+                     "was": None, "change": None, "change_pct": None, **r})
+    summary = [{
+        "date": result["date"], "singles_priced": result["singles_priced"],
+        "day_since": (result.get("day") or {}).get("since"),
+        "day_compared": (result.get("day") or {}).get("compared"),
+        "week_since": (result.get("week") or {}).get("since"),
+        "week_compared": (result.get("week") or {}).get("compared"),
+        "min_price": MIN_PRICE, "min_change": MIN_CHANGE,
+    }]
+    ddir = DATA / "dashboard"
+    ddir.mkdir(parents=True, exist_ok=True)
+    (ddir / "movers.json").write_text(json.dumps(rows))
+    (ddir / "summary.json").write_text(json.dumps(summary))
 
 
 def save_catalog(catalog: dict) -> None:

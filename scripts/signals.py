@@ -248,13 +248,22 @@ def compute(days, hist, catalog, released, meta):
             if len(board) >= 40:
                 break
 
+    leaders = []
+    if meta:
+        for num, name, n in meta["leaders"][:10]:
+            keys = by_number.get(num)
+            if not keys:
+                continue
+            k = min(keys, key=lambda x: now[x])
+            leaders.append(card_row(k, catalog, now[k], share=round(n / meta["decks"] * 100, 1), decks=n))
+
     meta_lows = [r for r in board if r["at_low"] and r["now"] >= PRICE_MIN]
     return {
         "date": today, "window_days": len(window_days), "price_range": [PRICE_MIN, PRICE_MAX],
         "fees": {"rate": FEE_RATE, "fixed": FEE_FIXED},
         "meta": None if not meta else {k: meta[k] for k in ("since", "events", "decks", "winning_decks", "leaders")},
         "low": lows[:15], "meta_low": meta_lows[:15], "settling": settling[:15], "pullback": pullbacks[:10],
-        "meta_board": board,
+        "meta_board": board, "leaders": leaders,
     }
 
 
@@ -264,7 +273,7 @@ def write_outputs(result: dict) -> None:
     for name in (f"{result['date']}.json", "latest.json"):
         (sdir / name).write_text(json.dumps(result, indent=1))
     rows = []
-    for sig in ("low", "meta_low", "settling", "pullback", "meta_board"):
+    for sig in ("low", "meta_low", "settling", "pullback", "meta_board", "leaders"):
         for i, r in enumerate(result[sig], 1):
             rows.append({"key": f"{sig}-{i}", "signal": sig, "rank": i, **r})
     ddir = DATA / "dashboard"

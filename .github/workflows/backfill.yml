@@ -1,0 +1,35 @@
+name: Backfill price history
+
+on:
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "How many past days to load"
+        default: "90"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-prices
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests==2.34.2 py7zr==1.1.4
+      - run: python scripts/tracker.py --backfill "${{ inputs.days }}"
+      - name: Save history
+        run: |
+          git config user.name "price-tracker-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Backfill ${{ inputs.days }} days of price history"
+          git pull --rebase
+          git push

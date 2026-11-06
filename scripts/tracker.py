@@ -229,8 +229,24 @@ def save_catalog(catalog: dict) -> None:
             w.writerow([pid, c["name"], c["set"], c["set_name"], c["number"], c["rarity"], c["url"]])
 
 
+def backfill(days: int) -> None:
+    """Save archived daily prices for the last `days` days that aren't saved yet."""
+    today = dt.datetime.now(dt.timezone.utc).date()
+    for n in range(1, days + 1):
+        d = (today - dt.timedelta(days=n)).isoformat()
+        if load_prices(d) is not None:
+            continue
+        p = fetch_archive(d)
+        print(f"backfill {d}: {len(p) if p else 'no archive'}")
+        if p:
+            save_prices(d, p)
+        time.sleep(1)
+
+
 def main() -> int:
     DATA.mkdir(exist_ok=True)
+    if len(sys.argv) > 2 and sys.argv[1] == "--backfill":
+        backfill(int(sys.argv[2]))
     date, catalog, now = fetch_today()
     if len(now) < 1000:
         print(f"Only {len(now)} prices came back; not saving a partial day.", file=sys.stderr)

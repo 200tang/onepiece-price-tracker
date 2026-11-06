@@ -1,0 +1,18 @@
+name: Probe tournament data (temporary)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Limitless API
+        run: |
+          UA="onepiece-price-tracker/1.0 (personal tracker; GitHub Actions)"
+          echo "== tournaments"; curl -sS -A "$UA" -w "\nHTTP %{http_code}\n" "https://play.limitlesstcg.com/api/tournaments?game=OP&limit=5" | head -c 1500; echo
+          TID=$(curl -sS -A "$UA" "https://play.limitlesstcg.com/api/tournaments?game=OP&limit=20" | python3 -c "import sys,json;d=json.load(sys.stdin);d=[t for t in d if t.get('players',0)>=32];print(d[0]['id'] if d else '')")
+          echo "== tid $TID"
+          echo "== standings"; curl -sS -A "$UA" -w "\nHTTP %{http_code}\n" "https://play.limitlesstcg.com/api/tournaments/$TID/standings" | head -c 2500; echo
+          echo "== robots"; curl -sS -A "$UA" "https://play.limitlesstcg.com/robots.txt" | head -40

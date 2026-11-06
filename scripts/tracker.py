@@ -57,6 +57,11 @@ def fetch_today() -> tuple[str, dict, dict]:
     updated = session.get(BASE + "/last-updated.txt", timeout=30).text.strip()
     date = updated[:10]
     groups = get_json(f"/tcgplayer/{CATEGORY}/groups")["results"]
+    with (DATA / "groups.csv").open("w", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["group_id", "set", "set_name", "released"])
+        for g in groups:
+            w.writerow([g["groupId"], g.get("abbreviation") or g["name"], g["name"], (g.get("publishedOn") or "")[:10]])
     catalog, prices = {}, {}
     for g in groups:
         gid = g["groupId"]
@@ -66,7 +71,7 @@ def fetch_today() -> tuple[str, dict, dict]:
             if not ext.get("Number"):
                 continue  # sealed product, not a single card
             catalog[str(p["productId"])] = {
-                "name": p["name"], "set": set_code, "set_name": g["name"],
+                "name": p["name"], "set": set_code, "set_name": g["name"], "group_id": gid,
                 "number": ext["Number"], "rarity": ext.get("Rarity", ""), "url": p["url"],
             }
         time.sleep(0.2)
@@ -224,9 +229,9 @@ def write_dashboard_files(result: dict) -> None:
 def save_catalog(catalog: dict) -> None:
     with (DATA / "catalog.csv").open("w", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["product_id", "name", "set", "set_name", "number", "rarity", "url"])
+        w.writerow(["product_id", "name", "set", "set_name", "group_id", "number", "rarity", "url"])
         for pid, c in sorted(catalog.items(), key=lambda kv: int(kv[0])):
-            w.writerow([pid, c["name"], c["set"], c["set_name"], c["number"], c["rarity"], c["url"]])
+            w.writerow([pid, c["name"], c["set"], c["set_name"], c["group_id"], c["number"], c["rarity"], c["url"]])
 
 
 def backfill(days: int) -> None:

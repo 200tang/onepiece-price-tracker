@@ -9,6 +9,8 @@ tournament decklists from Limitless TCG, and flags:
   settling  - new-set cards whose price has fallen a lot since release and has
               now held steady for several days
   pullback  - cards that climbed strongly and have just dipped back a little
+  meta_movers - biggest % gains and drops over 1, 7, 14 and 30 days among cards
+              played in recent tournament decks (cheapest printing of each)
 
 These are price facts, not predictions. Market price comes from recent sales and
 can be noisy for cards that rarely sell.
@@ -37,6 +39,11 @@ META_MIN_PLAYERS = 16
 META_MAX_EVENTS = 40
 NEW_SET_DAYS = 45
 FEE_RATE, FEE_FIXED = 0.13, 0.30    # rough TCGplayer seller fees (commission + payment processing)
+MM_PERIODS = (1, 7, 14, 30)         # meta movers: days to compare against
+MM_MIN_SHARE = 5.0                  # ...cards in at least this % of recent tournament decks
+MM_MIN_PRICE = 1.0                  # ...at least this price on both days (sub-$1 % moves are noise)
+MM_MIN_CHANGE = 0.25                # ...that moved at least this many dollars
+MM_TOP = 10
 
 
 # ---------- data loading ----------
@@ -258,13 +265,55 @@ def compute(days, hist, catalog, released, meta):
             leaders.append(card_row(k, catalog, now[k], share=round(n / meta["decks"] * 100, 1), decks=n))
 
     meta_lows = [r for r in board if r["at_low"] and r["now"] >= PRICE_MIN]
+    mm = meta_movers(days, hist, catalog, meta, by_number) if meta else {}
     return {
         "date": today, "window_days": len(window_days), "price_range": [PRICE_MIN, PRICE_MAX],
         "fees": {"rate": FEE_RATE, "fixed": FEE_FIXED},
         "meta": None if not meta else {k: meta[k] for k in ("since", "events", "decks", "winning_decks", "leaders")},
         "low": lows[:15], "meta_low": meta_lows[:15], "settling": settling[:15], "pullback": pullbacks[:10],
         "meta_board": board, "leaders": leaders,
+        "meta_movers_rules": {"min_share": MM_MIN_SHARE, "min_price": MM_MIN_PRICE, "min_change": MM_MIN_CHANGE},
+        "meta_movers": mm,
     }
+
+
+def meta_movers(days, hist, catalog, meta, by_number) -> dict:
+    """Biggest % gains and drops among cards played in recent tournament decks.
+
+    Uses each card's cheapest printing today (the copy a player would buy) and
+    compares it with the same printing 1, 7, 14 and 30 days ago.
+    """
+    today = days[-1]
+    now = hist[today]
+    pool = []
+    for num, u in meta["cards"].items():
+        keys = by_number.get(num)
+        if u["share"] < MM_MIN_SHARE or not keys:
+            continue
+        k = min(keys, key=lambda x: now[x])
+        pool.append((k, u))
+    out = {}
+    for n in MM_PERIODS:
+        target = dt.date.fromisoformat(today) - dt.timedelta(days=n)
+        then_day = next((d for d in reversed(days[:-1])
+                         if target - dt.timedelta(days=3) <= dt.date.fromisoformat(d) <= target), None)
+        if not then_day:
+            continue  # not enough history yet for this period
+        then = hist[then_day]
+        rows = []
+        for k, u in pool:
+            was, price = then.get(k), now[k]
+            if not was or min(was, price) < MM_MIN_PRICE or abs(price - was) < MM_MIN_CHANGE:
+                continue
+            rows.append(card_row(k, catalog, price, was=round(was, 2), change=round(price - was, 2),
+                                 change_pct=round((price - was) / was * 100, 1), share=u["share"],
+                                 avg_copies=u["avg_copies"], playset=round(4 * price, 2)))
+        out[f"{n}d"] = {
+            "since": then_day, "cards": len(pool),
+            "gain": sorted([r for r in rows if r["change"] > 0], key=lambda r: -r["change_pct"])[:MM_TOP],
+            "drop": sorted([r for r in rows if r["change"] < 0], key=lambda r: r["change_pct"])[:MM_TOP],
+        }
+    return out
 
 
 def write_outputs(result: dict) -> None:
@@ -279,12 +328,24 @@ def write_outputs(result: dict) -> None:
     ddir = DATA / "dashboard"
     ddir.mkdir(parents=True, exist_ok=True)
     (ddir / "signals.json").write_text(json.dumps(rows))
+    mm_rows = []
+    for period, block in result["meta_movers"].items():
+        for lst in ("gain", "drop"):
+            for i, r in enumerate(block[lst], 1):
+                mm_rows.append({"key": f"{period}-{lst}-{i}", "period": period, "list": lst, "rank": i,
+                                "since": block["since"], **r})
+    (ddir / "meta_movers.json").write_text(json.dumps(mm_rows))
     m = result["meta"] or {}
+    mm = result["meta_movers"]
+    rules = result["meta_movers_rules"]
     (ddir / "signals_summary.json").write_text(json.dumps([{
         "date": result["date"], "window_days": result["window_days"],
         "price_min": result["price_range"][0], "price_max": result["price_range"][1],
         "fee_rate_pct": round(result["fees"]["rate"] * 100), "fee_fixed": result["fees"]["fixed"],
         "meta_since": m.get("since"), "meta_events": m.get("events"), "meta_decks": m.get("decks"),
+        "mm_min_share": rules["min_share"], "mm_min_price": rules["min_price"], "mm_min_change": rules["min_change"],
+        "mm_cards": next(iter(mm.values()), {}).get("cards"),
+        **{f"mm_since_{p}": (mm.get(p) or {}).get("since") for p in ("1d", "7d", "14d", "30d")},
     }]))
 
 

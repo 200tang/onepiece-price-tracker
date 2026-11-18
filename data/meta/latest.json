@@ -1,992 +1,992 @@
 {
- "since": "2026-11-03",
+ "since": "2026-11-04",
  "events": 10,
- "decks": 417,
- "winning_decks": 142,
+ "decks": 459,
+ "winning_decks": 155,
  "cards": {
   "OP18-084": {
    "name": "Saint Gunko",
-   "decks": 23,
-   "copies": 91,
-   "winning_decks": 11,
-   "share": 5.5,
+   "decks": 35,
+   "copies": 139,
+   "winning_decks": 15,
+   "share": 7.6,
    "avg_copies": 4.0
   },
   "OP18-085": {
    "name": "Cerberus",
-   "decks": 24,
-   "copies": 91,
-   "winning_decks": 11,
-   "share": 5.8,
+   "decks": 36,
+   "copies": 138,
+   "winning_decks": 15,
+   "share": 7.8,
    "avg_copies": 3.8
   },
   "OP18-064": {
    "name": "Saint Killingham",
-   "decks": 26,
-   "copies": 101,
-   "winning_decks": 11,
-   "share": 6.2,
+   "decks": 39,
+   "copies": 152,
+   "winning_decks": 15,
+   "share": 8.5,
    "avg_copies": 3.9
   },
   "OP18-083": {
    "name": "Saint Killingham",
-   "decks": 24,
-   "copies": 93,
-   "winning_decks": 11,
-   "share": 5.8,
+   "decks": 36,
+   "copies": 141,
+   "winning_decks": 15,
+   "share": 7.8,
    "avg_copies": 3.9
   },
   "OP18-088": {
    "name": "Saint Sommers",
-   "decks": 23,
-   "copies": 74,
-   "winning_decks": 11,
-   "share": 5.5,
-   "avg_copies": 3.2
+   "decks": 36,
+   "copies": 124,
+   "winning_decks": 15,
+   "share": 7.8,
+   "avg_copies": 3.4
   },
   "OP18-119": {
    "name": "Saint Shamrock",
-   "decks": 24,
-   "copies": 95,
-   "winning_decks": 11,
-   "share": 5.8,
+   "decks": 36,
+   "copies": 143,
+   "winning_decks": 15,
+   "share": 7.8,
    "avg_copies": 4.0
   },
   "OP18-093": {
    "name": "Sleeptids",
-   "decks": 24,
-   "copies": 128,
-   "winning_decks": 11,
-   "share": 5.8,
-   "avg_copies": 5.3
+   "decks": 36,
+   "copies": 193,
+   "winning_decks": 15,
+   "share": 7.8,
+   "avg_copies": 5.4
   },
   "OP18-065": {
    "name": "Saint Gunko",
-   "decks": 23,
-   "copies": 72,
-   "winning_decks": 11,
-   "share": 5.5,
-   "avg_copies": 3.1
+   "decks": 35,
+   "copies": 105,
+   "winning_decks": 15,
+   "share": 7.6,
+   "avg_copies": 3.0
   },
   "OP15-078": {
    "name": "Mamaragan",
-   "decks": 59,
-   "copies": 220,
-   "winning_decks": 21,
-   "share": 14.1,
+   "decks": 64,
+   "copies": 236,
+   "winning_decks": 25,
+   "share": 13.9,
    "avg_copies": 3.7
   },
   "OP15-077": {
    "name": "Lightning Dragon",
-   "decks": 15,
-   "copies": 37,
-   "winning_decks": 5,
-   "share": 3.6,
+   "decks": 24,
+   "copies": 59,
+   "winning_decks": 7,
+   "share": 5.2,
    "avg_copies": 2.5
   },
   "OP18-095": {
    "name": "I'm Late, I'm Very Late!!",
-   "decks": 21,
-   "copies": 76,
-   "winning_decks": 11,
-   "share": 5.0,
-   "avg_copies": 3.6
+   "decks": 33,
+   "copies": 116,
+   "winning_decks": 15,
+   "share": 7.2,
+   "avg_copies": 3.5
   },
   "OP18-096": {
    "name": "I'll Make the Call",
-   "decks": 23,
-   "copies": 90,
-   "winning_decks": 11,
-   "share": 5.5,
+   "decks": 35,
+   "copies": 135,
+   "winning_decks": 15,
+   "share": 7.6,
    "avg_copies": 3.9
   },
   "OP07-076": {
    "name": "Slow-Slow Beam Sword",
-   "decks": 34,
-   "copies": 87,
-   "winning_decks": 14,
-   "share": 8.2,
-   "avg_copies": 2.6
+   "decks": 36,
+   "copies": 82,
+   "winning_decks": 13,
+   "share": 7.8,
+   "avg_copies": 2.3
   },
   "OP18-097": {
    "name": "Abyss Pentagram",
-   "decks": 23,
-   "copies": 90,
-   "winning_decks": 11,
-   "share": 5.5,
+   "decks": 35,
+   "copies": 138,
+   "winning_decks": 15,
+   "share": 7.6,
    "avg_copies": 3.9
   },
   "OP14-102": {
    "name": "Kumacy",
-   "decks": 3,
-   "copies": 12,
+   "decks": 7,
+   "copies": 28,
    "winning_decks": 1,
-   "share": 0.7,
+   "share": 1.5,
    "avg_copies": 4.0
   },
   "EB05-057": {
    "name": "Nojiko",
-   "decks": 19,
-   "copies": 61,
-   "winning_decks": 9,
-   "share": 4.6,
-   "avg_copies": 3.2
+   "decks": 24,
+   "copies": 80,
+   "winning_decks": 10,
+   "share": 5.2,
+   "avg_copies": 3.3
   },
   "OP17-109": {
    "name": "Charlotte Pudding",
-   "decks": 64,
-   "copies": 250,
-   "winning_decks": 18,
-   "share": 15.3,
+   "decks": 67,
+   "copies": 264,
+   "winning_decks": 20,
+   "share": 14.6,
    "avg_copies": 3.9
   },
   "OP12-112": {
    "name": "Baby 5",
-   "decks": 13,
-   "copies": 44,
-   "winning_decks": 3,
-   "share": 3.1,
+   "decks": 18,
+   "copies": 62,
+   "winning_decks": 6,
+   "share": 3.9,
    "avg_copies": 3.4
   },
   "OP14-110": {
    "name": "Dr. Hogback",
-   "decks": 3,
-   "copies": 12,
+   "decks": 8,
+   "copies": 32,
    "winning_decks": 1,
-   "share": 0.7,
+   "share": 1.7,
    "avg_copies": 4.0
   },
   "OP14-111": {
    "name": "Perona",
-   "decks": 3,
-   "copies": 12,
+   "decks": 8,
+   "copies": 32,
    "winning_decks": 1,
-   "share": 0.7,
+   "share": 1.7,
    "avg_copies": 4.0
   },
   "OP16-056": {
    "name": "Mr.3(Galdino)",
-   "decks": 41,
-   "copies": 152,
-   "winning_decks": 11,
-   "share": 9.8,
-   "avg_copies": 3.7
+   "decks": 60,
+   "copies": 214,
+   "winning_decks": 17,
+   "share": 13.1,
+   "avg_copies": 3.6
   },
   "OP06-104": {
    "name": "Kikunojo",
-   "decks": 1,
-   "copies": 1,
+   "decks": 5,
+   "copies": 9,
    "winning_decks": 1,
-   "share": 0.2,
-   "avg_copies": 1.0
+   "share": 1.1,
+   "avg_copies": 1.8
   },
   "OP15-113": {
    "name": "Roronoa Zoro",
    "decks": 18,
-   "copies": 50,
-   "winning_decks": 6,
-   "share": 4.3,
-   "avg_copies": 2.8
+   "copies": 43,
+   "winning_decks": 5,
+   "share": 3.9,
+   "avg_copies": 2.4
   },
   "EB03-053": {
    "name": "Nami",
-   "decks": 13,
-   "copies": 47,
-   "winning_decks": 7,
-   "share": 3.1,
+   "decks": 17,
+   "copies": 62,
+   "winning_decks": 6,
+   "share": 3.7,
    "avg_copies": 3.6
   },
   "EB04-058": {
    "name": "Borsalino",
-   "decks": 79,
-   "copies": 285,
-   "winning_decks": 27,
-   "share": 18.9,
-   "avg_copies": 3.6
+   "decks": 82,
+   "copies": 289,
+   "winning_decks": 28,
+   "share": 17.9,
+   "avg_copies": 3.5
   },
   "EB03-055": {
    "name": "Nico Robin",
-   "decks": 4,
-   "copies": 14,
+   "decks": 7,
+   "copies": 26,
    "winning_decks": 2,
-   "share": 1.0,
-   "avg_copies": 3.5
+   "share": 1.5,
+   "avg_copies": 3.7
   },
   "OP14-104": {
    "name": "Gecko Moria",
-   "decks": 27,
-   "copies": 102,
-   "winning_decks": 7,
-   "share": 6.5,
+   "decks": 26,
+   "copies": 100,
+   "winning_decks": 6,
+   "share": 5.7,
    "avg_copies": 3.8
   },
   "OP16-119": {
    "name": "Marshall.D.Teach",
-   "decks": 39,
-   "copies": 133,
+   "decks": 38,
+   "copies": 130,
    "winning_decks": 9,
-   "share": 9.4,
+   "share": 8.3,
    "avg_copies": 3.4
   },
   "OP18-046": {
    "name": "Mr.0 & Ms. All Sunday",
-   "decks": 10,
-   "copies": 40,
+   "decks": 18,
+   "copies": 69,
    "winning_decks": 3,
-   "share": 2.4,
-   "avg_copies": 4.0
+   "share": 3.9,
+   "avg_copies": 3.8
   },
   "OP13-091": {
    "name": "St. Marcus Mars",
-   "decks": 15,
-   "copies": 26,
-   "winning_decks": 8,
-   "share": 3.6,
-   "avg_copies": 1.7
+   "decks": 23,
+   "copies": 37,
+   "winning_decks": 11,
+   "share": 5.0,
+   "avg_copies": 1.6
   },
   "OP05-119": {
    "name": "Monkey.D.Luffy",
-   "decks": 12,
-   "copies": 35,
-   "winning_decks": 5,
-   "share": 2.9,
-   "avg_copies": 2.9
+   "decks": 18,
+   "copies": 45,
+   "winning_decks": 7,
+   "share": 3.9,
+   "avg_copies": 2.5
   },
   "OP13-096": {
    "name": "The Five Elders Are at Your Service!!!",
-   "decks": 9,
-   "copies": 24,
-   "winning_decks": 4,
-   "share": 2.2,
-   "avg_copies": 2.7
+   "decks": 12,
+   "copies": 30,
+   "winning_decks": 6,
+   "share": 2.6,
+   "avg_copies": 2.5
   },
   "OP14-096": {
    "name": "Ground Death",
-   "decks": 9,
-   "copies": 18,
-   "winning_decks": 3,
+   "decks": 10,
+   "copies": 20,
+   "winning_decks": 4,
    "share": 2.2,
    "avg_copies": 2.0
   },
   "OP09-056": {
    "name": "Mr.3(Galdino)",
-   "decks": 37,
-   "copies": 147,
-   "winning_decks": 10,
-   "share": 8.9,
+   "decks": 50,
+   "copies": 199,
+   "winning_decks": 14,
+   "share": 10.9,
    "avg_copies": 4.0
   },
   "OP16-054": {
    "name": "Mr.1(Daz.Bonez)",
-   "decks": 11,
-   "copies": 42,
-   "winning_decks": 3,
-   "share": 2.6,
-   "avg_copies": 3.8
+   "decks": 15,
+   "copies": 58,
+   "winning_decks": 4,
+   "share": 3.3,
+   "avg_copies": 3.9
   },
   "OP18-054": {
    "name": "Mr.8 & Ms. Monday",
-   "decks": 9,
-   "copies": 36,
+   "decks": 12,
+   "copies": 48,
    "winning_decks": 2,
-   "share": 2.2,
+   "share": 2.6,
    "avg_copies": 4.0
   },
   "OP16-055": {
    "name": "Mr.2.Bon.Kurei(Bentham)",
-   "decks": 8,
-   "copies": 26,
-   "winning_decks": 2,
-   "share": 1.9,
+   "decks": 12,
+   "copies": 38,
+   "winning_decks": 3,
+   "share": 2.6,
    "avg_copies": 3.2
   },
   "OP18-047": {
    "name": "Mr.1(Daz.Bonez)",
-   "decks": 15,
-   "copies": 30,
-   "winning_decks": 4,
-   "share": 3.6,
+   "decks": 21,
+   "copies": 43,
+   "winning_decks": 7,
+   "share": 4.6,
    "avg_copies": 2.0
   },
   "OP18-051": {
    "name": "Mr.4 & Miss.MerryChristmas",
-   "decks": 12,
-   "copies": 30,
-   "winning_decks": 2,
-   "share": 2.9,
-   "avg_copies": 2.5
+   "decks": 18,
+   "copies": 44,
+   "winning_decks": 4,
+   "share": 3.9,
+   "avg_copies": 2.4
   },
   "OP18-053": {
    "name": "Mr.7 & Miss.Father'sDay",
-   "decks": 6,
-   "copies": 19,
+   "decks": 8,
+   "copies": 25,
    "winning_decks": 2,
-   "share": 1.4,
-   "avg_copies": 3.2
+   "share": 1.7,
+   "avg_copies": 3.1
   },
   "OP16-045": {
    "name": "Crocodile",
-   "decks": 12,
-   "copies": 44,
-   "winning_decks": 3,
-   "share": 2.9,
+   "decks": 16,
+   "copies": 59,
+   "winning_decks": 4,
+   "share": 3.5,
    "avg_copies": 3.7
   },
   "EB05-028": {
    "name": "Boa Hancock",
-   "decks": 88,
-   "copies": 154,
-   "winning_decks": 32,
-   "share": 21.1,
-   "avg_copies": 1.8
+   "decks": 103,
+   "copies": 171,
+   "winning_decks": 36,
+   "share": 22.4,
+   "avg_copies": 1.7
   },
   "OP18-049": {
    "name": "Mr.2.Bon.Kurei(Bentham)",
-   "decks": 9,
-   "copies": 34,
+   "decks": 12,
+   "copies": 45,
    "winning_decks": 2,
-   "share": 2.2,
+   "share": 2.6,
    "avg_copies": 3.8
   },
   "OP18-050": {
    "name": "Mr.3 & Miss.Goldenweek",
-   "decks": 8,
-   "copies": 32,
+   "decks": 11,
+   "copies": 42,
    "winning_decks": 2,
-   "share": 1.9,
-   "avg_copies": 4.0
+   "share": 2.4,
+   "avg_copies": 3.8
   },
   "OP18-052": {
    "name": "Mr.5 & Miss.Valentine",
-   "decks": 8,
-   "copies": 29,
+   "decks": 11,
+   "copies": 38,
    "winning_decks": 2,
-   "share": 1.9,
-   "avg_copies": 3.6
+   "share": 2.4,
+   "avg_copies": 3.5
   },
   "OP18-048": {
    "name": "Mr.1 & Miss Doublefinger",
-   "decks": 9,
-   "copies": 35,
+   "decks": 12,
+   "copies": 47,
    "winning_decks": 2,
-   "share": 2.2,
+   "share": 2.6,
    "avg_copies": 3.9
   },
   "OP18-059": {
    "name": "I Pray For Your Success.",
-   "decks": 8,
-   "copies": 23,
+   "decks": 11,
+   "copies": 30,
    "winning_decks": 2,
-   "share": 1.9,
-   "avg_copies": 2.9
+   "share": 2.4,
+   "avg_copies": 2.7
   },
   "OP13-089": {
    "name": "St. Topman Warcury",
-   "decks": 13,
-   "copies": 21,
-   "winning_decks": 6,
-   "share": 3.1,
-   "avg_copies": 1.6
+   "decks": 16,
+   "copies": 24,
+   "winning_decks": 7,
+   "share": 3.5,
+   "avg_copies": 1.5
   },
   "OP14-069": {
    "name": "Donquixote Doflamingo",
-   "decks": 8,
-   "copies": 12,
+   "decks": 5,
+   "copies": 8,
    "winning_decks": 1,
-   "share": 1.9,
-   "avg_copies": 1.5
+   "share": 1.1,
+   "avg_copies": 1.6
   },
   "OP01-016": {
    "name": "Nami",
-   "decks": 13,
-   "copies": 48,
-   "winning_decks": 4,
-   "share": 3.1,
+   "decks": 23,
+   "copies": 84,
+   "winning_decks": 8,
+   "share": 5.0,
    "avg_copies": 3.7
   },
   "EB05-033": {
    "name": "Nico Robin",
-   "decks": 9,
-   "copies": 36,
+   "decks": 10,
+   "copies": 40,
    "winning_decks": 3,
    "share": 2.2,
    "avg_copies": 4.0
   },
   "EB04-002": {
    "name": "Jewelry Bonney",
-   "decks": 6,
-   "copies": 22,
-   "winning_decks": 3,
-   "share": 1.4,
-   "avg_copies": 3.7
+   "decks": 13,
+   "copies": 50,
+   "winning_decks": 4,
+   "share": 2.8,
+   "avg_copies": 3.8
   },
   "ST21-003": {
    "name": "Sanji",
-   "decks": 7,
-   "copies": 20,
-   "winning_decks": 2,
-   "share": 1.7,
-   "avg_copies": 2.9
+   "decks": 12,
+   "copies": 26,
+   "winning_decks": 4,
+   "share": 2.6,
+   "avg_copies": 2.2
   },
   "OP17-074": {
    "name": "Yamato",
-   "decks": 34,
-   "copies": 133,
-   "winning_decks": 8,
-   "share": 8.2,
+   "decks": 31,
+   "copies": 120,
+   "winning_decks": 9,
+   "share": 6.8,
    "avg_copies": 3.9
   },
   "OP05-067": {
    "name": "Zoro-Juurou",
-   "decks": 8,
-   "copies": 29,
+   "decks": 9,
+   "copies": 32,
    "winning_decks": 3,
-   "share": 1.9,
+   "share": 2.0,
    "avg_copies": 3.6
   },
   "ST18-001": {
    "name": "Uso-Hachi",
-   "decks": 11,
-   "copies": 42,
+   "decks": 13,
+   "copies": 49,
    "winning_decks": 3,
-   "share": 2.6,
+   "share": 2.8,
    "avg_copies": 3.8
   },
   "EB01-061": {
    "name": "Mr.2.Bon.Kurei(Bentham)",
-   "decks": 9,
-   "copies": 36,
+   "decks": 11,
+   "copies": 44,
    "winning_decks": 2,
-   "share": 2.2,
+   "share": 2.4,
    "avg_copies": 4.0
   },
   "EB04-007": {
    "name": "Roronoa Zoro",
-   "decks": 21,
-   "copies": 61,
-   "winning_decks": 5,
-   "share": 5.0,
-   "avg_copies": 2.9
+   "decks": 31,
+   "copies": 97,
+   "winning_decks": 9,
+   "share": 6.8,
+   "avg_copies": 3.1
   },
   "P-107": {
    "name": "Gol.D.Roger",
-   "decks": 8,
-   "copies": 22,
+   "decks": 10,
+   "copies": 30,
    "winning_decks": 3,
-   "share": 1.9,
-   "avg_copies": 2.8
+   "share": 2.2,
+   "avg_copies": 3.0
   },
   "OP09-004": {
    "name": "Shanks",
-   "decks": 3,
-   "copies": 8,
-   "winning_decks": 2,
-   "share": 0.7,
-   "avg_copies": 2.7
+   "decks": 4,
+   "copies": 11,
+   "winning_decks": 1,
+   "share": 0.9,
+   "avg_copies": 2.8
   },
   "OP09-118": {
    "name": "Gol.D.Roger",
-   "decks": 2,
-   "copies": 2,
-   "winning_decks": 1,
-   "share": 0.5,
-   "avg_copies": 1.0
+   "decks": 4,
+   "copies": 5,
+   "winning_decks": 2,
+   "share": 0.9,
+   "avg_copies": 1.2
   },
   "OP09-078": {
    "name": "Gum-Gum Giant",
-   "decks": 17,
-   "copies": 67,
-   "winning_decks": 4,
-   "share": 4.1,
+   "decks": 21,
+   "copies": 81,
+   "winning_decks": 5,
+   "share": 4.6,
    "avg_copies": 3.9
   },
   "ST31-005": {
    "name": "Thousand Sunny",
-   "decks": 37,
-   "copies": 130,
-   "winning_decks": 14,
-   "share": 8.9,
-   "avg_copies": 3.5
+   "decks": 43,
+   "copies": 154,
+   "winning_decks": 15,
+   "share": 9.4,
+   "avg_copies": 3.6
   },
   "ST25-001": {
    "name": "Alvida",
-   "decks": 27,
-   "copies": 90,
-   "winning_decks": 8,
-   "share": 6.5,
-   "avg_copies": 3.3
+   "decks": 33,
+   "copies": 111,
+   "winning_decks": 9,
+   "share": 7.2,
+   "avg_copies": 3.4
   },
   "ST25-002": {
    "name": "Cabaji",
-   "decks": 28,
-   "copies": 112,
-   "winning_decks": 8,
-   "share": 6.7,
+   "decks": 38,
+   "copies": 152,
+   "winning_decks": 12,
+   "share": 8.3,
    "avg_copies": 4.0
   },
   "ST25-005": {
    "name": "Mohji",
-   "decks": 29,
-   "copies": 113,
-   "winning_decks": 8,
-   "share": 7.0,
+   "decks": 39,
+   "copies": 153,
+   "winning_decks": 12,
+   "share": 8.5,
    "avg_copies": 3.9
   },
   "OP09-048": {
    "name": "Dracule Mihawk",
-   "decks": 30,
-   "copies": 117,
-   "winning_decks": 8,
-   "share": 7.2,
+   "decks": 40,
+   "copies": 156,
+   "winning_decks": 12,
+   "share": 8.7,
    "avg_copies": 3.9
   },
   "OP12-049": {
    "name": "Buggy",
-   "decks": 23,
-   "copies": 61,
-   "winning_decks": 7,
-   "share": 5.5,
+   "decks": 31,
+   "copies": 84,
+   "winning_decks": 9,
+   "share": 6.8,
    "avg_copies": 2.7
   },
   "P-084": {
    "name": "Buggy",
-   "decks": 20,
-   "copies": 35,
-   "winning_decks": 6,
-   "share": 4.8,
-   "avg_copies": 1.8
+   "decks": 25,
+   "copies": 42,
+   "winning_decks": 8,
+   "share": 5.4,
+   "avg_copies": 1.7
   },
   "ST25-003": {
    "name": "Crocodile & Mihawk",
-   "decks": 29,
-   "copies": 115,
-   "winning_decks": 8,
-   "share": 7.0,
+   "decks": 39,
+   "copies": 155,
+   "winning_decks": 12,
+   "share": 8.5,
    "avg_copies": 4.0
   },
   "EB05-021": {
    "name": "Alvida",
-   "decks": 31,
-   "copies": 122,
-   "winning_decks": 8,
-   "share": 7.4,
-   "avg_copies": 3.9
+   "decks": 41,
+   "copies": 162,
+   "winning_decks": 12,
+   "share": 8.9,
+   "avg_copies": 4.0
   },
   "OP09-051": {
    "name": "Buggy",
-   "decks": 29,
-   "copies": 115,
-   "winning_decks": 8,
-   "share": 7.0,
+   "decks": 39,
+   "copies": 155,
+   "winning_decks": 12,
+   "share": 8.5,
    "avg_copies": 4.0
   },
   "OP02-068": {
    "name": "Gum-Gum Rain",
-   "decks": 5,
-   "copies": 6,
-   "winning_decks": 2,
-   "share": 1.2,
-   "avg_copies": 1.2
+   "decks": 7,
+   "copies": 7,
+   "winning_decks": 3,
+   "share": 1.5,
+   "avg_copies": 1.0
   },
   "OP09-057": {
    "name": "Cross Guild",
-   "decks": 29,
-   "copies": 114,
-   "winning_decks": 8,
-   "share": 7.0,
+   "decks": 39,
+   "copies": 154,
+   "winning_decks": 12,
+   "share": 8.5,
    "avg_copies": 3.9
   },
   "OP16-058": {
    "name": "The Prisoners Are Rioting!!",
-   "decks": 7,
-   "copies": 13,
-   "winning_decks": 2,
-   "share": 1.7,
-   "avg_copies": 1.9
+   "decks": 11,
+   "copies": 23,
+   "winning_decks": 4,
+   "share": 2.4,
+   "avg_copies": 2.1
   },
   "OP06-058": {
    "name": "Gravity Blade Raging Tiger",
-   "decks": 37,
-   "copies": 72,
-   "winning_decks": 13,
-   "share": 8.9,
+   "decks": 42,
+   "copies": 81,
+   "winning_decks": 14,
+   "share": 9.2,
    "avg_copies": 1.9
   },
   "OP17-095": {
    "name": "Roronoa Zoro",
-   "decks": 28,
-   "copies": 97,
-   "winning_decks": 9,
-   "share": 6.7,
-   "avg_copies": 3.5
+   "decks": 37,
+   "copies": 126,
+   "winning_decks": 13,
+   "share": 8.1,
+   "avg_copies": 3.4
   },
   "OP13-076": {
    "name": "Divine Departure",
-   "decks": 20,
-   "copies": 23,
+   "decks": 18,
+   "copies": 20,
    "winning_decks": 7,
-   "share": 4.8,
+   "share": 3.9,
    "avg_copies": 1.1
   },
   "OP17-084": {
    "name": "Tony Tony.Chopper",
-   "decks": 15,
-   "copies": 26,
-   "winning_decks": 5,
-   "share": 3.6,
-   "avg_copies": 1.7
+   "decks": 20,
+   "copies": 41,
+   "winning_decks": 8,
+   "share": 4.4,
+   "avg_copies": 2.0
   },
   "OP17-080": {
    "name": "Usopp",
-   "decks": 15,
-   "copies": 59,
-   "winning_decks": 5,
-   "share": 3.6,
-   "avg_copies": 3.9
+   "decks": 20,
+   "copies": 80,
+   "winning_decks": 8,
+   "share": 4.4,
+   "avg_copies": 4.0
   },
   "OP17-087": {
    "name": "Nico Robin",
-   "decks": 15,
-   "copies": 55,
-   "winning_decks": 5,
-   "share": 3.6,
-   "avg_copies": 3.7
+   "decks": 20,
+   "copies": 71,
+   "winning_decks": 8,
+   "share": 4.4,
+   "avg_copies": 3.5
   },
   "OP17-083": {
    "name": "Jinbe",
-   "decks": 7,
-   "copies": 14,
-   "winning_decks": 1,
-   "share": 1.7,
-   "avg_copies": 2.0
+   "decks": 12,
+   "copies": 21,
+   "winning_decks": 4,
+   "share": 2.6,
+   "avg_copies": 1.8
   },
   "OP18-092": {
    "name": "Roronoa Zoro",
-   "decks": 6,
-   "copies": 14,
-   "winning_decks": 2,
-   "share": 1.4,
-   "avg_copies": 2.3
+   "decks": 13,
+   "copies": 34,
+   "winning_decks": 6,
+   "share": 2.8,
+   "avg_copies": 2.6
   },
   "OP18-087": {
    "name": "Stansen",
-   "decks": 1,
-   "copies": 4,
+   "decks": 2,
+   "copies": 8,
    "winning_decks": 1,
-   "share": 0.2,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP17-089": {
    "name": "Jaguar.D.Saul",
-   "decks": 15,
-   "copies": 49,
-   "winning_decks": 5,
-   "share": 3.6,
-   "avg_copies": 3.3
+   "decks": 20,
+   "copies": 72,
+   "winning_decks": 8,
+   "share": 4.4,
+   "avg_copies": 3.6
   },
   "EB05-047": {
    "name": "Ripley",
-   "decks": 13,
-   "copies": 49,
-   "winning_decks": 4,
-   "share": 3.1,
+   "decks": 18,
+   "copies": 68,
+   "winning_decks": 7,
+   "share": 3.9,
    "avg_copies": 3.8
   },
   "OP18-091": {
    "name": "Brogy",
-   "decks": 1,
-   "copies": 2,
+   "decks": 2,
+   "copies": 4,
    "winning_decks": 1,
-   "share": 0.2,
+   "share": 0.4,
    "avg_copies": 2.0
   },
   "OP15-088": {
    "name": "Pirates Docking Six",
-   "decks": 12,
-   "copies": 37,
-   "winning_decks": 5,
-   "share": 2.9,
+   "decks": 16,
+   "copies": 49,
+   "winning_decks": 7,
+   "share": 3.5,
    "avg_copies": 3.1
   },
   "OP17-119": {
    "name": "Loki",
-   "decks": 16,
-   "copies": 59,
-   "winning_decks": 5,
-   "share": 3.8,
-   "avg_copies": 3.7
+   "decks": 21,
+   "copies": 71,
+   "winning_decks": 8,
+   "share": 4.6,
+   "avg_copies": 3.4
   },
   "OP12-119": {
    "name": "Bartholomew Kuma",
    "decks": 4,
    "copies": 9,
    "winning_decks": 3,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 2.2
   },
   "OP17-093": {
    "name": "Monkey.D.Luffy",
-   "decks": 15,
-   "copies": 55,
-   "winning_decks": 5,
-   "share": 3.6,
-   "avg_copies": 3.7
+   "decks": 20,
+   "copies": 71,
+   "winning_decks": 8,
+   "share": 4.4,
+   "avg_copies": 3.5
   },
   "OP17-098": {
    "name": "Gum-Gum Kong Gun",
-   "decks": 7,
-   "copies": 11,
-   "winning_decks": 3,
-   "share": 1.7,
+   "decks": 9,
+   "copies": 14,
+   "winning_decks": 4,
+   "share": 2.0,
    "avg_copies": 1.6
   },
   "EB04-049": {
    "name": "Finger Pistol Yellow Lotus",
-   "decks": 1,
-   "copies": 2,
+   "decks": 3,
+   "copies": 6,
    "winning_decks": 1,
-   "share": 0.2,
+   "share": 0.7,
    "avg_copies": 2.0
   },
   "OP08-051": {
    "name": "Buckin",
-   "decks": 78,
-   "copies": 251,
-   "winning_decks": 34,
-   "share": 18.7,
-   "avg_copies": 3.2
+   "decks": 82,
+   "copies": 256,
+   "winning_decks": 35,
+   "share": 17.9,
+   "avg_copies": 3.1
   },
   "OP17-050": {
    "name": "Streusen",
-   "decks": 55,
-   "copies": 143,
-   "winning_decks": 23,
-   "share": 13.2,
-   "avg_copies": 2.6
+   "decks": 64,
+   "copies": 163,
+   "winning_decks": 27,
+   "share": 13.9,
+   "avg_copies": 2.5
   },
   "OP17-045": {
    "name": "Kyo",
-   "decks": 78,
-   "copies": 310,
-   "winning_decks": 34,
-   "share": 18.7,
+   "decks": 82,
+   "copies": 325,
+   "winning_decks": 35,
+   "share": 17.9,
    "avg_copies": 4.0
   },
   "OP17-052": {
    "name": "Don Marlon",
-   "decks": 73,
-   "copies": 257,
-   "winning_decks": 32,
-   "share": 17.5,
-   "avg_copies": 3.5
+   "decks": 77,
+   "copies": 278,
+   "winning_decks": 33,
+   "share": 16.8,
+   "avg_copies": 3.6
   },
   "OP17-054": {
    "name": "Miss Buckingham Stussy",
-   "decks": 79,
-   "copies": 313,
-   "winning_decks": 35,
-   "share": 18.9,
+   "decks": 83,
+   "copies": 329,
+   "winning_decks": 36,
+   "share": 18.1,
    "avg_copies": 4.0
   },
   "OP17-046": {
    "name": "Gloriosa",
-   "decks": 79,
-   "copies": 313,
-   "winning_decks": 35,
-   "share": 18.9,
+   "decks": 85,
+   "copies": 336,
+   "winning_decks": 36,
+   "share": 18.5,
    "avg_copies": 4.0
   },
   "OP17-042": {
    "name": "Kaido",
-   "decks": 70,
-   "copies": 188,
-   "winning_decks": 32,
-   "share": 16.8,
+   "decks": 75,
+   "copies": 200,
+   "winning_decks": 33,
+   "share": 16.3,
    "avg_copies": 2.7
   },
   "OP17-044": {
    "name": "Captain John",
-   "decks": 69,
-   "copies": 148,
-   "winning_decks": 32,
-   "share": 16.5,
+   "decks": 72,
+   "copies": 152,
+   "winning_decks": 33,
+   "share": 15.7,
    "avg_copies": 2.1
   },
   "OP17-049": {
    "name": "Charlotte Linlin",
-   "decks": 78,
-   "copies": 310,
-   "winning_decks": 34,
-   "share": 18.7,
+   "decks": 82,
+   "copies": 326,
+   "winning_decks": 35,
+   "share": 17.9,
    "avg_copies": 4.0
   },
   "OP17-040": {
    "name": "Edward.Newgate",
-   "decks": 78,
-   "copies": 311,
-   "winning_decks": 34,
-   "share": 18.7,
+   "decks": 82,
+   "copies": 327,
+   "winning_decks": 35,
+   "share": 17.9,
    "avg_copies": 4.0
   },
   "OP17-048": {
    "name": "Shiki",
-   "decks": 78,
-   "copies": 312,
-   "winning_decks": 34,
-   "share": 18.7,
+   "decks": 82,
+   "copies": 328,
+   "winning_decks": 35,
+   "share": 17.9,
    "avg_copies": 4.0
   },
   "OP17-118": {
    "name": "Rocks.D.Xebec",
-   "decks": 78,
-   "copies": 312,
-   "winning_decks": 34,
-   "share": 18.7,
+   "decks": 82,
+   "copies": 328,
+   "winning_decks": 35,
+   "share": 17.9,
    "avg_copies": 4.0
   },
   "OP17-055": {
    "name": "There's No Authority in the World That Lasts Forever!!!",
-   "decks": 78,
-   "copies": 312,
-   "winning_decks": 34,
-   "share": 18.7,
+   "decks": 82,
+   "copies": 328,
+   "winning_decks": 35,
+   "share": 17.9,
    "avg_copies": 4.0
   },
   "OP17-056": {
    "name": "Rocks Pirates",
-   "decks": 78,
-   "copies": 312,
-   "winning_decks": 34,
-   "share": 18.7,
+   "decks": 82,
+   "copies": 328,
+   "winning_decks": 35,
+   "share": 17.9,
    "avg_copies": 4.0
   },
   "OP14-010": {
    "name": "Basil Hawkins",
-   "decks": 6,
-   "copies": 21,
-   "winning_decks": 3,
-   "share": 1.4,
-   "avg_copies": 3.5
+   "decks": 4,
+   "copies": 13,
+   "winning_decks": 2,
+   "share": 0.9,
+   "avg_copies": 3.2
   },
   "OP14-013": {
    "name": "Monkey.D.Luffy",
-   "decks": 24,
-   "copies": 86,
-   "winning_decks": 11,
-   "share": 5.8,
-   "avg_copies": 3.6
+   "decks": 21,
+   "copies": 74,
+   "winning_decks": 9,
+   "share": 4.6,
+   "avg_copies": 3.5
   },
   "OP15-009": {
    "name": "Koby",
-   "decks": 7,
-   "copies": 21,
-   "winning_decks": 3,
-   "share": 1.7,
+   "decks": 6,
+   "copies": 18,
+   "winning_decks": 2,
+   "share": 1.3,
    "avg_copies": 3.0
   },
   "OP14-004": {
    "name": "Cavendish",
-   "decks": 6,
-   "copies": 16,
-   "winning_decks": 3,
-   "share": 1.4,
-   "avg_copies": 2.7
+   "decks": 4,
+   "copies": 12,
+   "winning_decks": 2,
+   "share": 0.9,
+   "avg_copies": 3.0
   },
   "OP14-011": {
    "name": "Bartolomeo",
-   "decks": 5,
-   "copies": 15,
-   "winning_decks": 3,
-   "share": 1.2,
-   "avg_copies": 3.0
+   "decks": 3,
+   "copies": 8,
+   "winning_decks": 2,
+   "share": 0.7,
+   "avg_copies": 2.7
   },
   "EB05-006": {
    "name": "Miss Buckingham Stussy",
    "decks": 8,
-   "copies": 20,
-   "winning_decks": 3,
-   "share": 1.9,
-   "avg_copies": 2.5
+   "copies": 21,
+   "winning_decks": 2,
+   "share": 1.7,
+   "avg_copies": 2.6
   },
   "OP14-002": {
    "name": "Urouge",
-   "decks": 6,
-   "copies": 23,
-   "winning_decks": 3,
-   "share": 1.4,
+   "decks": 4,
+   "copies": 15,
+   "winning_decks": 2,
+   "share": 0.9,
    "avg_copies": 3.8
   },
   "PRB02-003": {
    "name": "Lucky.Roux",
-   "decks": 25,
-   "copies": 68,
-   "winning_decks": 7,
-   "share": 6.0,
-   "avg_copies": 2.7
+   "decks": 20,
+   "copies": 53,
+   "winning_decks": 5,
+   "share": 4.4,
+   "avg_copies": 2.6
   },
   "OP14-014": {
    "name": "Eustass\"Captain\"Kid",
-   "decks": 6,
-   "copies": 14,
+   "decks": 5,
+   "copies": 13,
    "winning_decks": 2,
-   "share": 1.4,
-   "avg_copies": 2.3
+   "share": 1.1,
+   "avg_copies": 2.6
   },
   "EB05-001": {
    "name": "Jewelry Bonney",
-   "decks": 81,
-   "copies": 324,
-   "winning_decks": 33,
-   "share": 19.4,
+   "decks": 70,
+   "copies": 280,
+   "winning_decks": 29,
+   "share": 15.3,
    "avg_copies": 4.0
   },
   "OP14-007": {
    "name": "Jewelry Bonney",
-   "decks": 7,
-   "copies": 16,
-   "winning_decks": 3,
-   "share": 1.7,
-   "avg_copies": 2.3
+   "decks": 5,
+   "copies": 11,
+   "winning_decks": 2,
+   "share": 1.1,
+   "avg_copies": 2.2
   },
   "OP09-009": {
    "name": "Benn.Beckman",
-   "decks": 3,
-   "copies": 5,
-   "winning_decks": 3,
-   "share": 0.7,
-   "avg_copies": 1.7
+   "decks": 2,
+   "copies": 3,
+   "winning_decks": 2,
+   "share": 0.4,
+   "avg_copies": 1.5
   },
   "OP14-009": {
    "name": "Trafalgar Law",
-   "decks": 6,
-   "copies": 16,
-   "winning_decks": 3,
-   "share": 1.4,
-   "avg_copies": 2.7
+   "decks": 4,
+   "copies": 11,
+   "winning_decks": 2,
+   "share": 0.9,
+   "avg_copies": 2.8
   },
   "OP17-005": {
    "name": "Edward.Newgate",
    "decks": 6,
-   "copies": 18,
-   "winning_decks": 3,
-   "share": 1.4,
-   "avg_copies": 3.0
+   "copies": 19,
+   "winning_decks": 2,
+   "share": 1.3,
+   "avg_copies": 3.2
   },
   "OP14-019": {
    "name": "I Have a Plan to Take Down One of the Four Emperors!!",
-   "decks": 30,
-   "copies": 94,
-   "winning_decks": 12,
-   "share": 7.2,
-   "avg_copies": 3.1
+   "decks": 25,
+   "copies": 79,
+   "winning_decks": 10,
+   "share": 5.4,
+   "avg_copies": 3.2
   },
   "EB02-017": {
    "name": "Nami",
-   "decks": 15,
-   "copies": 56,
-   "winning_decks": 5,
-   "share": 3.6,
-   "avg_copies": 3.7
+   "decks": 24,
+   "copies": 90,
+   "winning_decks": 7,
+   "share": 5.2,
+   "avg_copies": 3.8
   },
   "PRB02-012": {
    "name": "Nami",
@@ -998,259 +998,259 @@
   },
   "OP18-026": {
    "name": "Sanji",
-   "decks": 6,
-   "copies": 23,
-   "winning_decks": 3,
-   "share": 1.4,
+   "decks": 12,
+   "copies": 46,
+   "winning_decks": 5,
+   "share": 2.6,
    "avg_copies": 3.8
   },
   "ST18-004": {
    "name": "Zoro-Juurou",
-   "decks": 3,
-   "copies": 11,
-   "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 3.7
+   "decks": 4,
+   "copies": 15,
+   "winning_decks": 2,
+   "share": 0.9,
+   "avg_copies": 3.8
   },
   "EB02-035": {
    "name": "Sanji & Pudding",
    "decks": 6,
    "copies": 22,
    "winning_decks": 2,
-   "share": 1.4,
+   "share": 1.3,
    "avg_copies": 3.7
   },
   "OP13-027": {
    "name": "Sanji",
-   "decks": 25,
-   "copies": 93,
-   "winning_decks": 11,
-   "share": 6.0,
-   "avg_copies": 3.7
+   "decks": 29,
+   "copies": 109,
+   "winning_decks": 12,
+   "share": 6.3,
+   "avg_copies": 3.8
   },
   "OP18-034": {
    "name": "Franky",
-   "decks": 6,
-   "copies": 23,
-   "winning_decks": 3,
-   "share": 1.4,
-   "avg_copies": 3.8
+   "decks": 11,
+   "copies": 35,
+   "winning_decks": 5,
+   "share": 2.4,
+   "avg_copies": 3.2
   },
   "EB02-061": {
    "name": "Monkey.D.Luffy",
-   "decks": 6,
+   "decks": 7,
    "copies": 12,
    "winning_decks": 2,
-   "share": 1.4,
-   "avg_copies": 2.0
+   "share": 1.5,
+   "avg_copies": 1.7
   },
   "OP15-032": {
    "name": "Brook",
-   "decks": 25,
-   "copies": 39,
-   "winning_decks": 8,
-   "share": 6.0,
+   "decks": 29,
+   "copies": 45,
+   "winning_decks": 10,
+   "share": 6.3,
    "avg_copies": 1.6
   },
   "OP18-038": {
    "name": "Shoot Down That Flag.",
-   "decks": 10,
-   "copies": 39,
+   "decks": 12,
+   "copies": 47,
    "winning_decks": 4,
-   "share": 2.4,
+   "share": 2.6,
    "avg_copies": 3.9
   },
   "OP12-037": {
    "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
-   "decks": 20,
-   "copies": 38,
-   "winning_decks": 8,
-   "share": 4.8,
-   "avg_copies": 1.9
+   "decks": 27,
+   "copies": 48,
+   "winning_decks": 10,
+   "share": 5.9,
+   "avg_copies": 1.8
   },
   "OP13-040": {
    "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
-   "decks": 14,
-   "copies": 26,
+   "decks": 15,
+   "copies": 25,
    "winning_decks": 5,
-   "share": 3.4,
-   "avg_copies": 1.9
+   "share": 3.3,
+   "avg_copies": 1.7
   },
   "EB05-061": {
    "name": "Nami",
-   "decks": 5,
-   "copies": 16,
+   "decks": 6,
+   "copies": 18,
    "winning_decks": 1,
-   "share": 1.2,
-   "avg_copies": 3.2
+   "share": 1.3,
+   "avg_copies": 3.0
   },
   "OP12-015": {
    "name": "Monkey.D.Luffy",
-   "decks": 5,
-   "copies": 20,
+   "decks": 7,
+   "copies": 28,
    "winning_decks": 1,
-   "share": 1.2,
+   "share": 1.5,
    "avg_copies": 4.0
   },
   "ST30-012": {
    "name": "Monkey.D.Luffy",
-   "decks": 6,
-   "copies": 16,
+   "decks": 7,
+   "copies": 21,
    "winning_decks": 2,
-   "share": 1.4,
-   "avg_copies": 2.7
+   "share": 1.5,
+   "avg_copies": 3.0
   },
   "ST21-014": {
    "name": "Monkey.D.Luffy",
-   "decks": 5,
-   "copies": 19,
+   "decks": 7,
+   "copies": 27,
    "winning_decks": 1,
-   "share": 1.2,
-   "avg_copies": 3.8
+   "share": 1.5,
+   "avg_copies": 3.9
   },
   "ST31-001": {
    "name": "Sanji",
-   "decks": 4,
-   "copies": 16,
+   "decks": 6,
+   "copies": 24,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 1.3,
    "avg_copies": 4.0
   },
   "OP04-016": {
    "name": "Bad Manners Kick Course",
-   "decks": 8,
-   "copies": 22,
-   "winning_decks": 2,
-   "share": 1.9,
-   "avg_copies": 2.8
+   "decks": 10,
+   "copies": 29,
+   "winning_decks": 3,
+   "share": 2.2,
+   "avg_copies": 2.9
   },
   "OP12-018": {
    "name": "Color of the Supreme King Haki",
-   "decks": 6,
-   "copies": 15,
+   "decks": 7,
+   "copies": 19,
    "winning_decks": 1,
-   "share": 1.4,
-   "avg_copies": 2.5
+   "share": 1.5,
+   "avg_copies": 2.7
   },
   "OP17-017": {
    "name": "Ga Ha Ha Ha!!",
-   "decks": 6,
-   "copies": 21,
+   "decks": 9,
+   "copies": 33,
    "winning_decks": 1,
-   "share": 1.4,
-   "avg_copies": 3.5
+   "share": 2.0,
+   "avg_copies": 3.7
   },
   "EB02-031": {
    "name": "Hope",
-   "decks": 4,
-   "copies": 11,
-   "winning_decks": 1,
-   "share": 1.0,
+   "decks": 8,
+   "copies": 22,
+   "winning_decks": 3,
+   "share": 1.7,
    "avg_copies": 2.8
   },
   "OP09-060": {
    "name": "Emptee Bluffs Island",
-   "decks": 13,
-   "copies": 27,
-   "winning_decks": 4,
-   "share": 3.1,
-   "avg_copies": 2.1
+   "decks": 19,
+   "copies": 43,
+   "winning_decks": 7,
+   "share": 4.1,
+   "avg_copies": 2.3
   },
   "OP16-051": {
    "name": "Mohji & Cabaji",
    "decks": 12,
-   "copies": 31,
-   "winning_decks": 4,
-   "share": 2.9,
-   "avg_copies": 2.6
+   "copies": 30,
+   "winning_decks": 2,
+   "share": 2.6,
+   "avg_copies": 2.5
   },
   "OP09-046": {
    "name": "Crocodile",
-   "decks": 6,
-   "copies": 14,
+   "decks": 7,
+   "copies": 15,
    "winning_decks": 1,
-   "share": 1.4,
-   "avg_copies": 2.3
+   "share": 1.5,
+   "avg_copies": 2.1
   },
   "OP15-092": {
    "name": "Monkey.D.Luffy",
-   "decks": 2,
-   "copies": 3,
+   "decks": 1,
+   "copies": 2,
    "winning_decks": 1,
-   "share": 0.5,
-   "avg_copies": 1.5
+   "share": 0.2,
+   "avg_copies": 2.0
   },
   "OP16-034": {
    "name": "Monkey.D.Luffy",
-   "decks": 4,
-   "copies": 16,
-   "winning_decks": 1,
-   "share": 1.0,
+   "decks": 5,
+   "copies": 20,
+   "winning_decks": 2,
+   "share": 1.1,
    "avg_copies": 4.0
   },
   "ST30-014": {
    "name": "Mr.3(Galdino)",
-   "decks": 5,
-   "copies": 16,
-   "winning_decks": 2,
-   "share": 1.2,
-   "avg_copies": 3.2
+   "decks": 7,
+   "copies": 20,
+   "winning_decks": 4,
+   "share": 1.5,
+   "avg_copies": 2.9
   },
   "EB05-025": {
    "name": "Domino",
-   "decks": 4,
-   "copies": 14,
-   "winning_decks": 1,
-   "share": 1.0,
-   "avg_copies": 3.5
+   "decks": 5,
+   "copies": 16,
+   "winning_decks": 2,
+   "share": 1.1,
+   "avg_copies": 3.2
   },
   "OP16-026": {
    "name": "Emporio.Ivankov",
-   "decks": 2,
-   "copies": 4,
+   "decks": 3,
+   "copies": 6,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.7,
    "avg_copies": 2.0
   },
   "OP16-048": {
    "name": "Buggy",
-   "decks": 4,
-   "copies": 16,
-   "winning_decks": 1,
-   "share": 1.0,
+   "decks": 5,
+   "copies": 20,
+   "winning_decks": 2,
+   "share": 1.1,
    "avg_copies": 4.0
   },
   "OP16-042": {
    "name": "Prisoner of Impel Down",
-   "decks": 4,
-   "copies": 32,
-   "winning_decks": 1,
-   "share": 1.0,
-   "avg_copies": 8.0
+   "decks": 5,
+   "copies": 41,
+   "winning_decks": 2,
+   "share": 1.1,
+   "avg_copies": 8.2
   },
   "OP16-038": {
    "name": "Let's Go!! To the Navy Headquarters!!",
-   "decks": 4,
-   "copies": 10,
-   "winning_decks": 1,
-   "share": 1.0,
-   "avg_copies": 2.5
+   "decks": 5,
+   "copies": 11,
+   "winning_decks": 2,
+   "share": 1.1,
+   "avg_copies": 2.2
   },
   "OP18-105": {
    "name": "Spandam",
-   "decks": 7,
-   "copies": 27,
-   "winning_decks": 2,
-   "share": 1.7,
-   "avg_copies": 3.9
+   "decks": 10,
+   "copies": 38,
+   "winning_decks": 3,
+   "share": 2.2,
+   "avg_copies": 3.8
   },
   "OP18-110": {
    "name": "Blueno",
-   "decks": 6,
-   "copies": 23,
+   "decks": 7,
+   "copies": 27,
    "winning_decks": 2,
-   "share": 1.4,
-   "avg_copies": 3.8
+   "share": 1.5,
+   "avg_copies": 3.9
   },
   "OP18-108": {
    "name": "Funkfreed",
@@ -1262,90 +1262,90 @@
   },
   "OP18-101": {
    "name": "Kumadori",
-   "decks": 4,
-   "copies": 12,
+   "decks": 6,
+   "copies": 19,
    "winning_decks": 2,
-   "share": 1.0,
-   "avg_copies": 3.0
+   "share": 1.3,
+   "avg_copies": 3.2
   },
   "OP18-109": {
    "name": "Fukurou",
-   "decks": 6,
-   "copies": 20,
+   "decks": 8,
+   "copies": 27,
    "winning_decks": 2,
-   "share": 1.4,
-   "avg_copies": 3.3
+   "share": 1.7,
+   "avg_copies": 3.4
   },
   "OP18-100": {
    "name": "Kalifa",
-   "decks": 7,
-   "copies": 28,
-   "winning_decks": 2,
-   "share": 1.7,
+   "decks": 10,
+   "copies": 40,
+   "winning_decks": 3,
+   "share": 2.2,
    "avg_copies": 4.0
   },
   "OP18-103": {
    "name": "Jabra",
-   "decks": 5,
-   "copies": 18,
-   "winning_decks": 2,
-   "share": 1.2,
-   "avg_copies": 3.6
+   "decks": 8,
+   "copies": 26,
+   "winning_decks": 3,
+   "share": 1.7,
+   "avg_copies": 3.2
   },
   "OP18-099": {
    "name": "Kaku",
-   "decks": 7,
-   "copies": 28,
-   "winning_decks": 2,
-   "share": 1.7,
+   "decks": 10,
+   "copies": 40,
+   "winning_decks": 3,
+   "share": 2.2,
    "avg_copies": 4.0
   },
   "OP18-098": {
    "name": "Onigumo",
-   "decks": 3,
-   "copies": 3,
-   "winning_decks": 2,
-   "share": 0.7,
+   "decks": 6,
+   "copies": 6,
+   "winning_decks": 3,
+   "share": 1.3,
    "avg_copies": 1.0
   },
   "OP18-104": {
    "name": "Strawberry",
-   "decks": 3,
-   "copies": 3,
-   "winning_decks": 2,
-   "share": 0.7,
+   "decks": 6,
+   "copies": 6,
+   "winning_decks": 3,
+   "share": 1.3,
    "avg_copies": 1.0
   },
   "OP18-106": {
    "name": "Doberman",
-   "decks": 3,
-   "copies": 3,
-   "winning_decks": 2,
-   "share": 0.7,
+   "decks": 6,
+   "copies": 6,
+   "winning_decks": 3,
+   "share": 1.3,
    "avg_copies": 1.0
   },
   "OP18-111": {
    "name": "Momonga",
-   "decks": 3,
-   "copies": 3,
-   "winning_decks": 2,
-   "share": 0.7,
+   "decks": 6,
+   "copies": 6,
+   "winning_decks": 3,
+   "share": 1.3,
    "avg_copies": 1.0
   },
   "OP18-112": {
    "name": "Yamakaji",
-   "decks": 3,
-   "copies": 3,
-   "winning_decks": 2,
-   "share": 0.7,
+   "decks": 6,
+   "copies": 6,
+   "winning_decks": 3,
+   "share": 1.3,
    "avg_copies": 1.0
   },
   "OP18-113": {
    "name": "Rob Lucci",
-   "decks": 7,
-   "copies": 28,
-   "winning_decks": 2,
-   "share": 1.7,
+   "decks": 10,
+   "copies": 40,
+   "winning_decks": 3,
+   "share": 2.2,
    "avg_copies": 4.0
   },
   "OP07-085": {
@@ -1358,330 +1358,330 @@
   },
   "OP18-117": {
    "name": "Buster Call",
-   "decks": 3,
-   "copies": 6,
-   "winning_decks": 2,
-   "share": 0.7,
+   "decks": 6,
+   "copies": 12,
+   "winning_decks": 3,
+   "share": 1.3,
    "avg_copies": 2.0
   },
   "OP07-064": {
    "name": "Sanji",
-   "decks": 5,
-   "copies": 20,
+   "decks": 6,
+   "copies": 22,
    "winning_decks": 1,
-   "share": 1.2,
-   "avg_copies": 4.0
+   "share": 1.3,
+   "avg_copies": 3.7
   },
   "OP11-080": {
    "name": "Gear Two",
-   "decks": 2,
-   "copies": 7,
+   "decks": 3,
+   "copies": 11,
    "winning_decks": 1,
-   "share": 0.5,
-   "avg_copies": 3.5
+   "share": 0.7,
+   "avg_copies": 3.7
   },
   "OP17-086": {
    "name": "Nami",
-   "decks": 13,
-   "copies": 36,
-   "winning_decks": 4,
-   "share": 3.1,
+   "decks": 15,
+   "copies": 42,
+   "winning_decks": 5,
+   "share": 3.3,
    "avg_copies": 2.8
   },
   "ST01-011": {
    "name": "Brook",
-   "decks": 6,
-   "copies": 17,
-   "winning_decks": 1,
-   "share": 1.4,
-   "avg_copies": 2.8
+   "decks": 8,
+   "copies": 21,
+   "winning_decks": 4,
+   "share": 1.7,
+   "avg_copies": 2.6
   },
   "OP17-082": {
    "name": "Sanji",
-   "decks": 14,
-   "copies": 52,
-   "winning_decks": 4,
-   "share": 3.4,
-   "avg_copies": 3.7
+   "decks": 18,
+   "copies": 59,
+   "winning_decks": 7,
+   "share": 3.9,
+   "avg_copies": 3.3
   },
   "EB05-009": {
    "name": "Fight and Die with Me!!!",
-   "decks": 1,
-   "copies": 2,
+   "decks": 2,
+   "copies": 4,
    "winning_decks": 1,
-   "share": 0.2,
+   "share": 0.4,
    "avg_copies": 2.0
   },
   "OP09-106": {
    "name": "Nico Olvia",
-   "decks": 18,
-   "copies": 68,
-   "winning_decks": 6,
-   "share": 4.3,
+   "decks": 20,
+   "copies": 76,
+   "winning_decks": 7,
+   "share": 4.4,
    "avg_copies": 3.8
   },
   "OP13-113": {
    "name": "Lilith",
-   "decks": 35,
-   "copies": 114,
-   "winning_decks": 10,
-   "share": 8.4,
+   "decks": 37,
+   "copies": 121,
+   "winning_decks": 11,
+   "share": 8.1,
    "avg_copies": 3.3
   },
   "EB05-050": {
    "name": "Atlas",
-   "decks": 14,
-   "copies": 50,
-   "winning_decks": 4,
-   "share": 3.4,
+   "decks": 17,
+   "copies": 61,
+   "winning_decks": 6,
+   "share": 3.7,
    "avg_copies": 3.6
   },
   "EB04-018": {
    "name": "Megalo",
-   "decks": 19,
-   "copies": 59,
-   "winning_decks": 6,
-   "share": 4.6,
-   "avg_copies": 3.1
+   "decks": 23,
+   "copies": 68,
+   "winning_decks": 8,
+   "share": 5.0,
+   "avg_copies": 3.0
   },
   "EB05-052": {
    "name": "Gloriosa",
-   "decks": 23,
-   "copies": 72,
-   "winning_decks": 8,
-   "share": 5.5,
+   "decks": 27,
+   "copies": 84,
+   "winning_decks": 10,
+   "share": 5.9,
    "avg_copies": 3.1
   },
   "OP18-031": {
    "name": "Nico Robin",
-   "decks": 12,
-   "copies": 41,
-   "winning_decks": 4,
-   "share": 2.9,
-   "avg_copies": 3.4
+   "decks": 22,
+   "copies": 80,
+   "winning_decks": 7,
+   "share": 4.8,
+   "avg_copies": 3.6
   },
   "EB05-055": {
    "name": "Nami",
-   "decks": 23,
-   "copies": 92,
-   "winning_decks": 8,
-   "share": 5.5,
+   "decks": 27,
+   "copies": 108,
+   "winning_decks": 10,
+   "share": 5.9,
    "avg_copies": 4.0
   },
   "OP17-114": {
    "name": "Sweet 3 Generals",
-   "decks": 58,
-   "copies": 187,
+   "decks": 54,
+   "copies": 172,
    "winning_decks": 15,
-   "share": 13.9,
+   "share": 11.8,
    "avg_copies": 3.2
   },
   "EB05-016": {
    "name": "Nico Robin",
-   "decks": 24,
-   "copies": 88,
-   "winning_decks": 8,
-   "share": 5.8,
+   "decks": 28,
+   "copies": 104,
+   "winning_decks": 10,
+   "share": 6.1,
    "avg_copies": 3.7
   },
   "OP13-031": {
    "name": "Trafalgar Law",
-   "decks": 95,
-   "copies": 328,
-   "winning_decks": 38,
-   "share": 22.8,
-   "avg_copies": 3.5
+   "decks": 91,
+   "copies": 303,
+   "winning_decks": 37,
+   "share": 19.8,
+   "avg_copies": 3.3
   },
   "OP17-022": {
    "name": "Shanks",
-   "decks": 101,
-   "copies": 301,
+   "decks": 99,
+   "copies": 297,
    "winning_decks": 39,
-   "share": 24.2,
+   "share": 21.6,
    "avg_copies": 3.0
   },
   "OP14-118": {
    "name": "You'll Frighten Me... \u2661",
-   "decks": 35,
-   "copies": 65,
+   "decks": 36,
+   "copies": 72,
    "winning_decks": 13,
-   "share": 8.4,
-   "avg_copies": 1.9
+   "share": 7.8,
+   "avg_copies": 2.0
   },
   "OP16-064": {
    "name": "Koby",
-   "decks": 16,
-   "copies": 64,
-   "winning_decks": 6,
-   "share": 3.8,
+   "decks": 14,
+   "copies": 56,
+   "winning_decks": 4,
+   "share": 3.1,
    "avg_copies": 4.0
   },
   "OP12-108": {
    "name": "Donquixote Rosinante",
-   "decks": 14,
-   "copies": 41,
-   "winning_decks": 5,
-   "share": 3.4,
-   "avg_copies": 2.9
+   "decks": 13,
+   "copies": 39,
+   "winning_decks": 4,
+   "share": 2.8,
+   "avg_copies": 3.0
   },
   "ST10-010": {
    "name": "Trafalgar Law",
-   "decks": 23,
-   "copies": 75,
+   "decks": 22,
+   "copies": 71,
    "winning_decks": 6,
-   "share": 5.5,
-   "avg_copies": 3.3
+   "share": 4.8,
+   "avg_copies": 3.2
   },
   "P-088": {
    "name": "Trafalgar Law",
-   "decks": 16,
-   "copies": 64,
-   "winning_decks": 6,
-   "share": 3.8,
+   "decks": 14,
+   "copies": 56,
+   "winning_decks": 4,
+   "share": 3.1,
    "avg_copies": 4.0
   },
   "P-093": {
    "name": "Trafalgar Law",
-   "decks": 16,
-   "copies": 64,
-   "winning_decks": 6,
-   "share": 3.8,
+   "decks": 14,
+   "copies": 56,
+   "winning_decks": 4,
+   "share": 3.1,
    "avg_copies": 4.0
   },
   "EB04-038": {
    "name": "Rosinante & Law",
-   "decks": 16,
-   "copies": 64,
-   "winning_decks": 6,
-   "share": 3.8,
+   "decks": 14,
+   "copies": 56,
+   "winning_decks": 4,
+   "share": 3.1,
    "avg_copies": 4.0
   },
   "OP16-065": {
    "name": "Sakazuki",
-   "decks": 16,
-   "copies": 64,
-   "winning_decks": 6,
-   "share": 3.8,
+   "decks": 14,
+   "copies": 56,
+   "winning_decks": 4,
+   "share": 3.1,
    "avg_copies": 4.0
   },
   "EB03-062": {
    "name": "Trafalgar Law",
-   "decks": 3,
-   "copies": 3,
+   "decks": 4,
+   "copies": 4,
    "winning_decks": 2,
-   "share": 0.7,
+   "share": 0.9,
    "avg_copies": 1.0
   },
   "EB05-040": {
    "name": "You Need Me, Don't You?!!\u2661",
-   "decks": 20,
-   "copies": 79,
-   "winning_decks": 7,
-   "share": 4.8,
-   "avg_copies": 4.0
+   "decks": 19,
+   "copies": 74,
+   "winning_decks": 4,
+   "share": 4.1,
+   "avg_copies": 3.9
   },
   "OP12-115": {
    "name": "I Love You!!",
-   "decks": 16,
-   "copies": 64,
-   "winning_decks": 6,
-   "share": 3.8,
+   "decks": 14,
+   "copies": 56,
+   "winning_decks": 4,
+   "share": 3.1,
    "avg_copies": 4.0
   },
   "OP16-078": {
    "name": "Marineford",
-   "decks": 16,
-   "copies": 64,
-   "winning_decks": 6,
-   "share": 3.8,
+   "decks": 14,
+   "copies": 56,
+   "winning_decks": 4,
+   "share": 3.1,
    "avg_copies": 4.0
   },
   "OP18-070": {
    "name": "Tom",
-   "decks": 2,
-   "copies": 7,
+   "decks": 3,
+   "copies": 11,
    "winning_decks": 1,
-   "share": 0.5,
-   "avg_copies": 3.5
+   "share": 0.7,
+   "avg_copies": 3.7
   },
   "OP15-035": {
    "name": "Laboon",
-   "decks": 3,
-   "copies": 6,
+   "decks": 5,
+   "copies": 14,
    "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 2.0
+   "share": 1.1,
+   "avg_copies": 2.8
   },
   "OP18-061": {
    "name": "Iceburg",
-   "decks": 3,
-   "copies": 12,
-   "winning_decks": 1,
-   "share": 0.7,
+   "decks": 5,
+   "copies": 20,
+   "winning_decks": 2,
+   "share": 1.1,
    "avg_copies": 4.0
   },
   "OP18-072": {
    "name": "The Franky Family",
-   "decks": 1,
-   "copies": 3,
+   "decks": 2,
+   "copies": 6,
    "winning_decks": 1,
-   "share": 0.2,
+   "share": 0.4,
    "avg_copies": 3.0
   },
   "OP18-118": {
    "name": "Monkey.D.Luffy",
-   "decks": 7,
-   "copies": 27,
-   "winning_decks": 3,
-   "share": 1.7,
-   "avg_copies": 3.9
+   "decks": 15,
+   "copies": 54,
+   "winning_decks": 6,
+   "share": 3.3,
+   "avg_copies": 3.6
   },
   "OP18-074": {
    "name": "Can You Please Sail on the Ship I Made?!",
    "decks": 2,
    "copies": 8,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP18-076": {
    "name": "Shark Submerge 3",
-   "decks": 5,
-   "copies": 18,
-   "winning_decks": 1,
-   "share": 1.2,
-   "avg_copies": 3.6
+   "decks": 7,
+   "copies": 26,
+   "winning_decks": 2,
+   "share": 1.5,
+   "avg_copies": 3.7
   },
   "OP18-078": {
    "name": "Mini-Merry",
-   "decks": 4,
-   "copies": 10,
-   "winning_decks": 1,
-   "share": 1.0,
-   "avg_copies": 2.5
+   "decks": 6,
+   "copies": 18,
+   "winning_decks": 2,
+   "share": 1.3,
+   "avg_copies": 3.0
   },
   "OP18-075": {
    "name": "Thousand Sunny",
-   "decks": 2,
-   "copies": 6,
-   "winning_decks": 1,
-   "share": 0.5,
-   "avg_copies": 3.0
+   "decks": 4,
+   "copies": 10,
+   "winning_decks": 2,
+   "share": 0.9,
+   "avg_copies": 2.5
   },
   "OP18-077": {
    "name": "White Hobby Horse 1",
-   "decks": 3,
-   "copies": 9,
-   "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 3.0
+   "decks": 5,
+   "copies": 16,
+   "winning_decks": 2,
+   "share": 1.1,
+   "avg_copies": 3.2
   },
   "OP18-036": {
    "name": "Monkey.D.Luffy",
-   "decks": 6,
-   "copies": 24,
+   "decks": 9,
+   "copies": 36,
    "winning_decks": 2,
-   "share": 1.4,
+   "share": 2.0,
    "avg_copies": 4.0
   },
   "OP13-037": {
@@ -1689,24 +1689,24 @@
    "decks": 4,
    "copies": 10,
    "winning_decks": 2,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 2.5
   },
   "OP14-031": {
    "name": "Nami",
-   "decks": 72,
-   "copies": 277,
-   "winning_decks": 27,
-   "share": 17.3,
+   "decks": 66,
+   "copies": 252,
+   "winning_decks": 26,
+   "share": 14.4,
    "avg_copies": 3.8
   },
   "OP18-027": {
    "name": "Zoro & Sogeking",
-   "decks": 6,
-   "copies": 22,
-   "winning_decks": 2,
-   "share": 1.4,
-   "avg_copies": 3.7
+   "decks": 12,
+   "copies": 38,
+   "winning_decks": 3,
+   "share": 2.6,
+   "avg_copies": 3.2
   },
   "OP16-035": {
    "name": "Roronoa Zoro",
@@ -1718,18 +1718,18 @@
   },
   "OP17-038": {
    "name": "I Think He's Seen an Ugly Future...",
-   "decks": 3,
-   "copies": 7,
+   "decks": 4,
+   "copies": 9,
    "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 2.3
+   "share": 0.9,
+   "avg_copies": 2.2
   },
   "OP18-039": {
    "name": "Gum-Gum Giant Axe",
    "decks": 6,
    "copies": 22,
    "winning_decks": 2,
-   "share": 1.4,
+   "share": 1.3,
    "avg_copies": 3.7
   },
   "OP16-039": {
@@ -1737,15 +1737,15 @@
    "decks": 6,
    "copies": 15,
    "winning_decks": 2,
-   "share": 1.4,
+   "share": 1.3,
    "avg_copies": 2.5
   },
   "OP14-103": {
    "name": "Gloriosa (Grandma Nyon)",
-   "decks": 5,
-   "copies": 11,
+   "decks": 4,
+   "copies": 9,
    "winning_decks": 4,
-   "share": 1.2,
+   "share": 0.9,
    "avg_copies": 2.2
   },
   "OP08-050": {
@@ -1753,79 +1753,79 @@
    "decks": 2,
    "copies": 6,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.0
   },
   "OP14-114": {
    "name": "Ran",
-   "decks": 15,
-   "copies": 60,
-   "winning_decks": 7,
-   "share": 3.6,
+   "decks": 12,
+   "copies": 48,
+   "winning_decks": 6,
+   "share": 2.6,
    "avg_copies": 4.0
   },
   "ST17-004": {
    "name": "Boa Hancock",
-   "decks": 14,
-   "copies": 35,
-   "winning_decks": 6,
-   "share": 3.4,
-   "avg_copies": 2.5
+   "decks": 11,
+   "copies": 29,
+   "winning_decks": 5,
+   "share": 2.4,
+   "avg_copies": 2.6
   },
   "OP16-113": {
    "name": "Boa Marigold",
-   "decks": 15,
-   "copies": 60,
-   "winning_decks": 7,
-   "share": 3.6,
+   "decks": 12,
+   "copies": 48,
+   "winning_decks": 6,
+   "share": 2.6,
    "avg_copies": 4.0
   },
   "OP14-105": {
    "name": "Gorgon Sisters",
-   "decks": 15,
-   "copies": 60,
-   "winning_decks": 7,
-   "share": 3.6,
+   "decks": 12,
+   "copies": 48,
+   "winning_decks": 6,
+   "share": 2.6,
    "avg_copies": 4.0
   },
   "OP14-107": {
    "name": "Shakuyaku",
-   "decks": 15,
-   "copies": 60,
-   "winning_decks": 7,
-   "share": 3.6,
+   "decks": 12,
+   "copies": 48,
+   "winning_decks": 6,
+   "share": 2.6,
    "avg_copies": 4.0
   },
   "OP14-112": {
    "name": "Boa Hancock",
-   "decks": 23,
-   "copies": 73,
-   "winning_decks": 7,
-   "share": 5.5,
+   "decks": 19,
+   "copies": 60,
+   "winning_decks": 6,
+   "share": 4.1,
    "avg_copies": 3.2
   },
   "OP06-115": {
    "name": "You're the One Who Should Disappear.",
-   "decks": 42,
-   "copies": 118,
-   "winning_decks": 15,
-   "share": 10.1,
-   "avg_copies": 2.8
+   "decks": 36,
+   "copies": 95,
+   "winning_decks": 14,
+   "share": 7.8,
+   "avg_copies": 2.6
   },
   "OP16-117": {
    "name": "Black Hole",
-   "decks": 1,
-   "copies": 1,
+   "decks": 2,
+   "copies": 3,
    "winning_decks": 1,
-   "share": 0.2,
-   "avg_copies": 1.0
+   "share": 0.4,
+   "avg_copies": 1.5
   },
   "OP17-023": {
    "name": "Nami",
    "decks": 2,
    "copies": 4,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 2.0
   },
   "OP18-029": {
@@ -1833,15 +1833,15 @@
    "decks": 4,
    "copies": 10,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 2.5
   },
   "OP13-012": {
    "name": "Nefeltari Vivi",
-   "decks": 4,
-   "copies": 16,
+   "decks": 6,
+   "copies": 24,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 1.3,
    "avg_copies": 4.0
   },
   "OP15-052": {
@@ -1857,23 +1857,23 @@
    "decks": 2,
    "copies": 6,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.0
   },
   "OP18-011": {
    "name": "Nefeltari Vivi",
-   "decks": 4,
-   "copies": 16,
+   "decks": 5,
+   "copies": 20,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 1.1,
    "avg_copies": 4.0
   },
   "OP18-004": {
    "name": "Karoo",
-   "decks": 4,
-   "copies": 16,
+   "decks": 6,
+   "copies": 24,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 1.3,
    "avg_copies": 4.0
   },
   "OP18-009": {
@@ -1886,58 +1886,58 @@
   },
   "OP18-010": {
    "name": "Tony Tony.Chopper",
-   "decks": 4,
-   "copies": 15,
+   "decks": 6,
+   "copies": 22,
    "winning_decks": 1,
-   "share": 1.0,
-   "avg_copies": 3.8
+   "share": 1.3,
+   "avg_copies": 3.7
   },
   "OP18-043": {
    "name": "Accelegator",
-   "decks": 3,
-   "copies": 11,
+   "decks": 4,
+   "copies": 15,
    "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 3.7
+   "share": 0.9,
+   "avg_copies": 3.8
   },
   "EB02-001": {
    "name": "Karoo",
-   "decks": 4,
-   "copies": 16,
+   "decks": 5,
+   "copies": 20,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 1.1,
    "avg_copies": 4.0
   },
   "EB03-024": {
    "name": "Nefeltari Vivi",
-   "decks": 4,
-   "copies": 15,
+   "decks": 6,
+   "copies": 23,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 1.3,
    "avg_copies": 3.8
   },
   "OP18-003": {
    "name": "Sea Cat",
-   "decks": 4,
-   "copies": 13,
+   "decks": 5,
+   "copies": 17,
    "winning_decks": 1,
-   "share": 1.0,
-   "avg_copies": 3.2
+   "share": 1.1,
+   "avg_copies": 3.4
   },
   "OP18-008": {
    "name": "Chaka",
-   "decks": 4,
-   "copies": 10,
+   "decks": 6,
+   "copies": 16,
    "winning_decks": 1,
-   "share": 1.0,
-   "avg_copies": 2.5
+   "share": 1.3,
+   "avg_copies": 2.7
   },
   "OP18-013": {
    "name": "Pell",
-   "decks": 3,
-   "copies": 9,
+   "decks": 5,
+   "copies": 15,
    "winning_decks": 1,
-   "share": 0.7,
+   "share": 1.1,
    "avg_copies": 3.0
   },
   "OP18-019": {
@@ -1950,10 +1950,10 @@
   },
   "OP14-049": {
    "name": "Jinbe",
-   "decks": 12,
-   "copies": 13,
-   "winning_decks": 3,
-   "share": 2.9,
+   "decks": 9,
+   "copies": 10,
+   "winning_decks": 1,
+   "share": 2.0,
    "avg_copies": 1.1
   },
   "EB05-014": {
@@ -2046,11 +2046,11 @@
   },
   "OP08-036": {
    "name": "Electrical Luna",
-   "decks": 15,
-   "copies": 31,
+   "decks": 16,
+   "copies": 37,
    "winning_decks": 2,
-   "share": 3.6,
-   "avg_copies": 2.1
+   "share": 3.5,
+   "avg_copies": 2.3
   },
   "EB03-021": {
    "name": "Alvida",
@@ -2062,42 +2062,42 @@
   },
   "ST33-004": {
    "name": "Borsalino",
-   "decks": 7,
-   "copies": 21,
-   "winning_decks": 2,
-   "share": 1.7,
-   "avg_copies": 3.0
+   "decks": 10,
+   "copies": 31,
+   "winning_decks": 3,
+   "share": 2.2,
+   "avg_copies": 3.1
   },
   "OP16-067": {
    "name": "Tsuru",
    "decks": 3,
    "copies": 3,
-   "winning_decks": 2,
+   "winning_decks": 1,
    "share": 0.7,
    "avg_copies": 1.0
   },
   "OP09-077": {
    "name": "Gum-Gum Lightning",
-   "decks": 18,
-   "copies": 29,
+   "decks": 16,
+   "copies": 25,
    "winning_decks": 5,
-   "share": 4.3,
+   "share": 3.5,
    "avg_copies": 1.6
   },
   "EB05-056": {
    "name": "Nico Olvia",
-   "decks": 8,
-   "copies": 23,
+   "decks": 9,
+   "copies": 27,
    "winning_decks": 4,
-   "share": 1.9,
-   "avg_copies": 2.9
+   "share": 2.0,
+   "avg_copies": 3.0
   },
   "OP14-108": {
    "name": "Silvers Rayleigh",
-   "decks": 16,
-   "copies": 45,
-   "winning_decks": 6,
-   "share": 3.8,
+   "decks": 17,
+   "copies": 48,
+   "winning_decks": 7,
+   "share": 3.7,
    "avg_copies": 2.8
   },
   "OP15-116": {
@@ -2105,47 +2105,47 @@
    "decks": 4,
    "copies": 9,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 2.2
   },
   "OP17-113": {
    "name": "Streusen",
-   "decks": 18,
-   "copies": 70,
+   "decks": 13,
+   "copies": 50,
    "winning_decks": 3,
-   "share": 4.3,
-   "avg_copies": 3.9
+   "share": 2.8,
+   "avg_copies": 3.8
   },
   "OP11-106": {
    "name": "Zeus",
-   "decks": 19,
-   "copies": 69,
-   "winning_decks": 4,
-   "share": 4.6,
+   "decks": 14,
+   "copies": 50,
+   "winning_decks": 3,
+   "share": 3.1,
    "avg_copies": 3.6
   },
   "OP17-107": {
    "name": "Charlotte Daifuku",
-   "decks": 25,
-   "copies": 99,
-   "winning_decks": 4,
-   "share": 6.0,
-   "avg_copies": 4.0
+   "decks": 23,
+   "copies": 89,
+   "winning_decks": 6,
+   "share": 5.0,
+   "avg_copies": 3.9
   },
   "EB05-051": {
    "name": "Ahiru",
-   "decks": 10,
-   "copies": 35,
+   "decks": 12,
+   "copies": 42,
    "winning_decks": 1,
-   "share": 2.4,
+   "share": 2.6,
    "avg_copies": 3.5
   },
   "OP17-102": {
    "name": "Charlotte Oven",
-   "decks": 25,
-   "copies": 94,
-   "winning_decks": 5,
-   "share": 6.0,
+   "decks": 21,
+   "copies": 80,
+   "winning_decks": 4,
+   "share": 4.6,
    "avg_copies": 3.8
   },
   "OP17-106": {
@@ -2153,23 +2153,23 @@
    "decks": 7,
    "copies": 23,
    "winning_decks": 1,
-   "share": 1.7,
+   "share": 1.5,
    "avg_copies": 3.3
   },
   "OP17-112": {
    "name": "Charlotte Linlin",
-   "decks": 39,
-   "copies": 135,
-   "winning_decks": 8,
-   "share": 9.4,
-   "avg_copies": 3.5
+   "decks": 37,
+   "copies": 122,
+   "winning_decks": 9,
+   "share": 8.1,
+   "avg_copies": 3.3
   },
   "EB02-052": {
    "name": "Enel",
-   "decks": 15,
-   "copies": 18,
+   "decks": 11,
+   "copies": 13,
    "winning_decks": 2,
-   "share": 3.6,
+   "share": 2.4,
    "avg_copies": 1.2
   },
   "OP14-061": {
@@ -2182,26 +2182,26 @@
   },
   "OP18-116": {
    "name": "Iron Body Empty Tree",
-   "decks": 6,
-   "copies": 18,
-   "winning_decks": 1,
-   "share": 1.4,
+   "decks": 8,
+   "copies": 24,
+   "winning_decks": 2,
+   "share": 1.7,
    "avg_copies": 3.0
   },
   "PRB02-006": {
    "name": "Roronoa Zoro",
-   "decks": 11,
-   "copies": 32,
-   "winning_decks": 4,
-   "share": 2.6,
-   "avg_copies": 2.9
+   "decks": 10,
+   "copies": 28,
+   "winning_decks": 3,
+   "share": 2.2,
+   "avg_copies": 2.8
   },
   "OP09-119": {
    "name": "Monkey.D.Luffy",
    "decks": 2,
    "copies": 6,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.0
   },
   "ST25-004": {
@@ -2209,15 +2209,15 @@
    "decks": 8,
    "copies": 24,
    "winning_decks": 2,
-   "share": 1.9,
+   "share": 1.7,
    "avg_copies": 3.0
   },
   "ST30-004": {
    "name": "Emporio.Ivankov",
-   "decks": 62,
-   "copies": 225,
-   "winning_decks": 24,
-   "share": 14.9,
+   "decks": 55,
+   "copies": 197,
+   "winning_decks": 22,
+   "share": 12.0,
    "avg_copies": 3.6
   },
   "OP17-012": {
@@ -2230,35 +2230,35 @@
   },
   "OP17-003": {
    "name": "Izo",
-   "decks": 1,
-   "copies": 4,
+   "decks": 2,
+   "copies": 7,
    "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
+   "share": 0.4,
+   "avg_copies": 3.5
   },
   "EB05-004": {
    "name": "Baby 5",
-   "decks": 7,
-   "copies": 26,
-   "winning_decks": 1,
-   "share": 1.7,
-   "avg_copies": 3.7
+   "decks": 9,
+   "copies": 34,
+   "winning_decks": 0,
+   "share": 2.0,
+   "avg_copies": 3.8
   },
   "OP16-118": {
    "name": "Portgas.D.Ace",
-   "decks": 1,
-   "copies": 4,
+   "decks": 2,
+   "copies": 6,
    "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
+   "share": 0.4,
+   "avg_copies": 3.0
   },
   "ST30-005": {
    "name": "Jozu",
-   "decks": 1,
-   "copies": 4,
+   "decks": 2,
+   "copies": 6,
    "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
+   "share": 0.4,
+   "avg_copies": 3.0
   },
   "OP17-015": {
    "name": "Marco",
@@ -2270,35 +2270,35 @@
   },
   "OP17-008": {
    "name": "Jozu",
-   "decks": 1,
-   "copies": 4,
+   "decks": 2,
+   "copies": 8,
    "winning_decks": 0,
-   "share": 0.2,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP17-019": {
    "name": "I Don't Have Time to Chat with Snot-Nosed Brats",
-   "decks": 1,
-   "copies": 4,
+   "decks": 2,
+   "copies": 8,
    "winning_decks": 0,
-   "share": 0.2,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "ST21-017": {
    "name": "Gum-Gum Mole Pistol",
-   "decks": 5,
-   "copies": 10,
-   "winning_decks": 0,
-   "share": 1.2,
+   "decks": 7,
+   "copies": 14,
+   "winning_decks": 1,
+   "share": 1.5,
    "avg_copies": 2.0
   },
   "OP16-021": {
    "name": "Moby Dick",
-   "decks": 3,
-   "copies": 12,
+   "decks": 4,
+   "copies": 15,
    "winning_decks": 0,
-   "share": 0.7,
-   "avg_copies": 4.0
+   "share": 0.9,
+   "avg_copies": 3.8
   },
   "OP18-012": {
    "name": "Pincers",
@@ -2350,27 +2350,27 @@
   },
   "OP18-006": {
    "name": "Koza",
-   "decks": 1,
-   "copies": 3,
+   "decks": 2,
+   "copies": 5,
    "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 3.0
+   "share": 0.4,
+   "avg_copies": 2.5
   },
   "OP18-016": {
    "name": "Monkey.D.Luffy",
-   "decks": 1,
-   "copies": 3,
+   "decks": 2,
+   "copies": 7,
    "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 3.0
+   "share": 0.4,
+   "avg_copies": 3.5
   },
   "OP18-018": {
    "name": "Let's Go, Karoo!!",
-   "decks": 1,
-   "copies": 3,
+   "decks": 2,
+   "copies": 5,
    "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 3.0
+   "share": 0.4,
+   "avg_copies": 2.5
   },
   "OP16-015": {
    "name": "Monkey.D.Luffy",
@@ -2390,107 +2390,107 @@
   },
   "OP01-055": {
    "name": "You Can Be My Samurai!!",
-   "decks": 39,
-   "copies": 74,
-   "winning_decks": 16,
-   "share": 9.4,
+   "decks": 35,
+   "copies": 66,
+   "winning_decks": 14,
+   "share": 7.6,
    "avg_copies": 1.9
   },
   "OP12-071": {
    "name": "Charlotte Pudding",
-   "decks": 4,
-   "copies": 14,
-   "winning_decks": 0,
-   "share": 1.0,
-   "avg_copies": 3.5
+   "decks": 6,
+   "copies": 22,
+   "winning_decks": 2,
+   "share": 1.3,
+   "avg_copies": 3.7
   },
   "OP15-061": {
    "name": "Ohm",
-   "decks": 3,
-   "copies": 12,
-   "winning_decks": 0,
-   "share": 0.7,
+   "decks": 5,
+   "copies": 20,
+   "winning_decks": 2,
+   "share": 1.1,
    "avg_copies": 4.0
   },
   "OP15-067": {
    "name": "Shura",
-   "decks": 3,
-   "copies": 12,
-   "winning_decks": 0,
-   "share": 0.7,
+   "decks": 5,
+   "copies": 20,
+   "winning_decks": 2,
+   "share": 1.1,
    "avg_copies": 4.0
   },
   "OP15-066": {
    "name": "Satori",
-   "decks": 3,
-   "copies": 7,
-   "winning_decks": 0,
-   "share": 0.7,
-   "avg_copies": 2.3
+   "decks": 5,
+   "copies": 14,
+   "winning_decks": 2,
+   "share": 1.1,
+   "avg_copies": 2.8
   },
   "OP12-063": {
    "name": "Vinsmoke Reiju",
-   "decks": 2,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 2.0
+   "decks": 3,
+   "copies": 8,
+   "winning_decks": 1,
+   "share": 0.7,
+   "avg_copies": 2.7
   },
   "OP10-067": {
    "name": "Senor Pink",
-   "decks": 3,
-   "copies": 6,
-   "winning_decks": 0,
-   "share": 0.7,
-   "avg_copies": 2.0
+   "decks": 5,
+   "copies": 9,
+   "winning_decks": 2,
+   "share": 1.1,
+   "avg_copies": 1.8
   },
   "OP15-118": {
    "name": "Enel",
-   "decks": 3,
-   "copies": 10,
-   "winning_decks": 0,
-   "share": 0.7,
-   "avg_copies": 3.3
+   "decks": 5,
+   "copies": 18,
+   "winning_decks": 2,
+   "share": 1.1,
+   "avg_copies": 3.6
   },
   "OP15-075": {
    "name": "El Thor",
-   "decks": 3,
-   "copies": 12,
-   "winning_decks": 0,
-   "share": 0.7,
+   "decks": 5,
+   "copies": 20,
+   "winning_decks": 2,
+   "share": 1.1,
    "avg_copies": 4.0
   },
   "OP15-076": {
    "name": "Lightning Beast Kiten",
-   "decks": 3,
-   "copies": 12,
-   "winning_decks": 0,
-   "share": 0.7,
+   "decks": 5,
+   "copies": 20,
+   "winning_decks": 2,
+   "share": 1.1,
    "avg_copies": 4.0
   },
   "OP15-074": {
    "name": "Varie",
-   "decks": 3,
-   "copies": 6,
-   "winning_decks": 0,
-   "share": 0.7,
-   "avg_copies": 2.0
+   "decks": 5,
+   "copies": 13,
+   "winning_decks": 2,
+   "share": 1.1,
+   "avg_copies": 2.6
   },
   "OP05-077": {
    "name": "Gamma Knife",
-   "decks": 4,
-   "copies": 10,
-   "winning_decks": 0,
-   "share": 1.0,
-   "avg_copies": 2.5
+   "decks": 7,
+   "copies": 16,
+   "winning_decks": 3,
+   "share": 1.5,
+   "avg_copies": 2.3
   },
   "OP09-072": {
    "name": "Franky",
-   "decks": 3,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.7,
-   "avg_copies": 1.3
+   "decks": 4,
+   "copies": 6,
+   "winning_decks": 1,
+   "share": 0.9,
+   "avg_copies": 1.5
   },
   "OP13-086": {
    "name": "Saint Shalria",
@@ -2502,27 +2502,27 @@
   },
   "EB05-034": {
    "name": "Sugar",
-   "decks": 13,
-   "copies": 30,
-   "winning_decks": 5,
-   "share": 3.1,
-   "avg_copies": 2.3
+   "decks": 9,
+   "copies": 23,
+   "winning_decks": 3,
+   "share": 2.0,
+   "avg_copies": 2.6
   },
   "ST34-004": {
    "name": "Charlotte Linlin",
-   "decks": 19,
-   "copies": 60,
+   "decks": 15,
+   "copies": 48,
    "winning_decks": 5,
-   "share": 4.6,
+   "share": 3.3,
    "avg_copies": 3.2
   },
   "OP09-097": {
    "name": "Black Vortex",
-   "decks": 2,
-   "copies": 3,
+   "decks": 1,
+   "copies": 2,
    "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 1.5
+   "share": 0.2,
+   "avg_copies": 2.0
   },
   "OP09-102": {
    "name": "Professor Clover",
@@ -2550,122 +2550,122 @@
   },
   "OP17-041": {
    "name": "Wang Zhi",
-   "decks": 12,
-   "copies": 30,
+   "decks": 11,
+   "copies": 28,
    "winning_decks": 3,
-   "share": 2.9,
+   "share": 2.4,
    "avg_copies": 2.5
   },
   "OP05-118": {
    "name": "Kaido",
-   "decks": 1,
-   "copies": 2,
+   "decks": 2,
+   "copies": 4,
    "winning_decks": 0,
-   "share": 0.2,
+   "share": 0.4,
    "avg_copies": 2.0
   },
   "OP07-022": {
    "name": "Otama",
-   "decks": 46,
-   "copies": 178,
-   "winning_decks": 20,
-   "share": 11.0,
+   "decks": 41,
+   "copies": 159,
+   "winning_decks": 18,
+   "share": 8.9,
    "avg_copies": 3.9
   },
   "OP13-016": {
    "name": "Monkey.D.Garp",
-   "decks": 63,
-   "copies": 252,
-   "winning_decks": 25,
-   "share": 15.1,
+   "decks": 56,
+   "copies": 222,
+   "winning_decks": 23,
+   "share": 12.2,
    "avg_copies": 4.0
   },
   "ST32-001": {
    "name": "Kin'emon",
-   "decks": 32,
-   "copies": 79,
-   "winning_decks": 16,
-   "share": 7.7,
+   "decks": 29,
+   "copies": 73,
+   "winning_decks": 14,
+   "share": 6.3,
    "avg_copies": 2.5
   },
   "OP06-033": {
    "name": "Vander Decken IX",
-   "decks": 79,
-   "copies": 309,
-   "winning_decks": 30,
-   "share": 18.9,
+   "decks": 71,
+   "copies": 277,
+   "winning_decks": 27,
+   "share": 15.5,
    "avg_copies": 3.9
   },
   "EB01-013": {
    "name": "Kouzuki Hiyori",
-   "decks": 51,
-   "copies": 204,
-   "winning_decks": 21,
-   "share": 12.2,
+   "decks": 45,
+   "copies": 180,
+   "winning_decks": 19,
+   "share": 9.8,
    "avg_copies": 4.0
   },
   "OP12-023": {
    "name": "Kawamatsu",
-   "decks": 56,
-   "copies": 224,
-   "winning_decks": 21,
-   "share": 13.4,
+   "decks": 51,
+   "copies": 204,
+   "winning_decks": 19,
+   "share": 11.1,
    "avg_copies": 4.0
   },
   "ST32-002": {
    "name": "Kouzuki Oden",
-   "decks": 55,
-   "copies": 220,
-   "winning_decks": 21,
-   "share": 13.2,
+   "decks": 51,
+   "copies": 203,
+   "winning_decks": 19,
+   "share": 11.1,
    "avg_copies": 4.0
   },
   "OP14-037": {
    "name": "For Fun",
-   "decks": 30,
-   "copies": 52,
-   "winning_decks": 16,
-   "share": 7.2,
-   "avg_copies": 1.7
+   "decks": 27,
+   "copies": 48,
+   "winning_decks": 14,
+   "share": 5.9,
+   "avg_copies": 1.8
   },
   "OP08-019": {
    "name": "Munch-Munch Mutation",
    "decks": 4,
    "copies": 6,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 1.5
   },
   "OP17-081": {
    "name": "Gerd",
-   "decks": 11,
-   "copies": 37,
+   "decks": 12,
+   "copies": 38,
    "winning_decks": 3,
    "share": 2.6,
-   "avg_copies": 3.4
+   "avg_copies": 3.2
   },
   "OP18-086": {
    "name": "Goldberg",
    "decks": 2,
    "copies": 6,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.0
   },
   "EB05-046": {
    "name": "Yamato",
-   "decks": 12,
-   "copies": 23,
-   "winning_decks": 3,
-   "share": 2.9,
-   "avg_copies": 1.9
+   "decks": 16,
+   "copies": 36,
+   "winning_decks": 6,
+   "share": 3.5,
+   "avg_copies": 2.2
   },
   "OP17-096": {
    "name": "I'm Luffy!! The Man Who Will Be King of the Pirates!!",
-   "decks": 3,
-   "copies": 6,
-   "winning_decks": 0,
-   "share": 0.7,
+   "decks": 8,
+   "copies": 16,
+   "winning_decks": 3,
+   "share": 1.7,
    "avg_copies": 2.0
   },
   "OP18-025": {
@@ -2673,7 +2673,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP18-024": {
@@ -2681,7 +2681,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP18-028": {
@@ -2689,7 +2689,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP18-030": {
@@ -2697,7 +2697,7 @@
    "decks": 2,
    "copies": 7,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.5
   },
   "OP13-080": {
@@ -2710,19 +2710,19 @@
   },
   "OP14-015": {
    "name": "Roronoa Zoro",
-   "decks": 5,
-   "copies": 8,
-   "winning_decks": 2,
-   "share": 1.2,
-   "avg_copies": 1.6
+   "decks": 3,
+   "copies": 4,
+   "winning_decks": 1,
+   "share": 0.7,
+   "avg_copies": 1.3
   },
   "OP15-103": {
    "name": "Genbo",
-   "decks": 11,
-   "copies": 34,
+   "decks": 7,
+   "copies": 23,
    "winning_decks": 2,
-   "share": 2.6,
-   "avg_copies": 3.1
+   "share": 1.5,
+   "avg_copies": 3.3
   },
   "OP14-067": {
    "name": "Dellinger",
@@ -2736,8 +2736,8 @@
    "name": "Sugar",
    "decks": 4,
    "copies": 13,
-   "winning_decks": 1,
-   "share": 1.0,
+   "winning_decks": 0,
+   "share": 0.9,
    "avg_copies": 3.2
   },
   "OP10-076": {
@@ -2766,42 +2766,42 @@
   },
   "OP14-074": {
    "name": "Monet",
-   "decks": 1,
-   "copies": 4,
+   "decks": 2,
+   "copies": 6,
    "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
+   "share": 0.4,
+   "avg_copies": 3.0
   },
   "OP10-072": {
    "name": "Donquixote Rosinante",
-   "decks": 4,
-   "copies": 14,
-   "winning_decks": 1,
-   "share": 1.0,
-   "avg_copies": 3.5
+   "decks": 5,
+   "copies": 18,
+   "winning_decks": 0,
+   "share": 1.1,
+   "avg_copies": 3.6
   },
   "OP10-071": {
    "name": "Donquixote Doflamingo",
-   "decks": 3,
-   "copies": 11,
-   "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 3.7
+   "decks": 4,
+   "copies": 14,
+   "winning_decks": 0,
+   "share": 0.9,
+   "avg_copies": 3.5
   },
   "OP17-062": {
    "name": "Kaido",
-   "decks": 22,
-   "copies": 79,
+   "decks": 17,
+   "copies": 59,
    "winning_decks": 5,
-   "share": 5.3,
-   "avg_copies": 3.6
+   "share": 3.7,
+   "avg_copies": 3.5
   },
   "OP14-077": {
    "name": "Penta-Chromatic String",
    "decks": 2,
    "copies": 3,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 1.5
   },
   "OP18-066": {
@@ -2809,23 +2809,23 @@
    "decks": 2,
    "copies": 6,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.0
   },
   "EB02-041": {
    "name": "Merry Go",
    "decks": 2,
-   "copies": 7,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 3.5
+   "copies": 6,
+   "winning_decks": 1,
+   "share": 0.4,
+   "avg_copies": 3.0
   },
   "OP16-091": {
    "name": "Nami",
    "decks": 2,
    "copies": 8,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP16-092": {
@@ -2833,7 +2833,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP16-081": {
@@ -2841,7 +2841,7 @@
    "decks": 2,
    "copies": 7,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.5
   },
   "OP16-087": {
@@ -2849,7 +2849,7 @@
    "decks": 2,
    "copies": 7,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.5
   },
   "OP16-088": {
@@ -2857,7 +2857,7 @@
    "decks": 2,
    "copies": 3,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 1.5
   },
   "OP16-082": {
@@ -2865,7 +2865,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "EB05-042": {
@@ -2873,7 +2873,7 @@
    "decks": 2,
    "copies": 3,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 1.5
   },
   "OP16-084": {
@@ -2881,7 +2881,7 @@
    "decks": 2,
    "copies": 7,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.5
   },
   "OP16-098": {
@@ -2889,7 +2889,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP16-096": {
@@ -2897,7 +2897,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP16-097": {
@@ -2905,7 +2905,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP16-085": {
@@ -2913,7 +2913,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP16-099": {
@@ -2921,7 +2921,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "EB02-036": {
@@ -2942,34 +2942,34 @@
   },
   "OP11-067": {
    "name": "Charlotte Katakuri",
-   "decks": 2,
-   "copies": 5,
+   "decks": 1,
+   "copies": 4,
    "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 2.5
+   "share": 0.2,
+   "avg_copies": 4.0
   },
   "OP08-069": {
    "name": "Charlotte Linlin",
-   "decks": 5,
-   "copies": 12,
+   "decks": 3,
+   "copies": 8,
    "winning_decks": 0,
-   "share": 1.2,
-   "avg_copies": 2.4
+   "share": 0.7,
+   "avg_copies": 2.7
   },
   "OP17-063": {
    "name": "Kaido",
-   "decks": 14,
-   "copies": 31,
+   "decks": 12,
+   "copies": 27,
    "winning_decks": 4,
-   "share": 3.4,
+   "share": 2.6,
    "avg_copies": 2.2
   },
   "EB04-024": {
    "name": "Terracotta",
-   "decks": 1,
-   "copies": 2,
+   "decks": 2,
+   "copies": 4,
    "winning_decks": 0,
-   "share": 0.2,
+   "share": 0.4,
    "avg_copies": 2.0
   },
   "OP06-017": {
@@ -3001,24 +3001,24 @@
    "decks": 4,
    "copies": 9,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 2.2
   },
   "OP08-067": {
    "name": "Charlotte Pudding",
-   "decks": 1,
-   "copies": 3,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 3.0
+   "decks": 2,
+   "copies": 7,
+   "winning_decks": 1,
+   "share": 0.4,
+   "avg_copies": 3.5
   },
   "OP05-040": {
    "name": "Birdcage",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
+   "decks": 2,
+   "copies": 3,
+   "winning_decks": 1,
+   "share": 0.4,
+   "avg_copies": 1.5
   },
   "OP12-038": {
    "name": "Two-Sword Style Rashomon",
@@ -3036,29 +3036,1069 @@
    "share": 0.2,
    "avg_copies": 1.0
   },
+  "OP14-022": {
+   "name": "Usopp",
+   "decks": 2,
+   "copies": 5,
+   "winning_decks": 1,
+   "share": 0.4,
+   "avg_copies": 2.5
+  },
+  "OP05-038": {
+   "name": "Charlestone",
+   "decks": 8,
+   "copies": 28,
+   "winning_decks": 2,
+   "share": 1.7,
+   "avg_copies": 3.5
+  },
+  "OP13-118": {
+   "name": "Monkey.D.Luffy",
+   "decks": 2,
+   "copies": 4,
+   "winning_decks": 1,
+   "share": 0.4,
+   "avg_copies": 2.0
+  },
+  "OP16-103": {
+   "name": "Van Augur",
+   "decks": 7,
+   "copies": 15,
+   "winning_decks": 1,
+   "share": 1.5,
+   "avg_copies": 2.1
+  },
+  "OP16-109": {
+   "name": "Doc Q",
+   "decks": 7,
+   "copies": 25,
+   "winning_decks": 1,
+   "share": 1.5,
+   "avg_copies": 3.6
+  },
+  "OP16-110": {
+   "name": "Vasco Shot",
+   "decks": 7,
+   "copies": 28,
+   "winning_decks": 1,
+   "share": 1.5,
+   "avg_copies": 4.0
+  },
+  "OP09-086": {
+   "name": "Jesus Burgess",
+   "decks": 15,
+   "copies": 59,
+   "winning_decks": 4,
+   "share": 3.3,
+   "avg_copies": 3.9
+  },
+  "OP16-104": {
+   "name": "Catarina Devon",
+   "decks": 7,
+   "copies": 28,
+   "winning_decks": 1,
+   "share": 1.5,
+   "avg_copies": 4.0
+  },
+  "OP16-106": {
+   "name": "Sanjuan.Wolf",
+   "decks": 7,
+   "copies": 11,
+   "winning_decks": 1,
+   "share": 1.5,
+   "avg_copies": 1.6
+  },
+  "OP10-082": {
+   "name": "Kuzan",
+   "decks": 10,
+   "copies": 38,
+   "winning_decks": 4,
+   "share": 2.2,
+   "avg_copies": 3.8
+  },
+  "OP16-108": {
+   "name": "Shiryu",
+   "decks": 7,
+   "copies": 28,
+   "winning_decks": 1,
+   "share": 1.5,
+   "avg_copies": 4.0
+  },
+  "OP09-093": {
+   "name": "Marshall.D.Teach",
+   "decks": 16,
+   "copies": 59,
+   "winning_decks": 4,
+   "share": 3.5,
+   "avg_copies": 3.7
+  },
+  "OP09-096": {
+   "name": "My Era...Begins!!",
+   "decks": 14,
+   "copies": 52,
+   "winning_decks": 4,
+   "share": 3.1,
+   "avg_copies": 3.7
+  },
+  "OP16-116": {
+   "name": "Zehahahahaha!",
+   "decks": 8,
+   "copies": 16,
+   "winning_decks": 1,
+   "share": 1.7,
+   "avg_copies": 2.0
+  },
+  "OP09-099": {
+   "name": "Fullalead",
+   "decks": 15,
+   "copies": 60,
+   "winning_decks": 4,
+   "share": 3.3,
+   "avg_copies": 4.0
+  },
+  "OP13-007": {
+   "name": "Ace & Sabo & Luffy",
+   "decks": 5,
+   "copies": 10,
+   "winning_decks": 3,
+   "share": 1.1,
+   "avg_copies": 2.0
+  },
+  "OP16-032": {
+   "name": "Boa Hancock",
+   "decks": 3,
+   "copies": 5,
+   "winning_decks": 1,
+   "share": 0.7,
+   "avg_copies": 1.7
+  },
+  "EB04-032": {
+   "name": "Queen",
+   "decks": 15,
+   "copies": 60,
+   "winning_decks": 5,
+   "share": 3.3,
+   "avg_copies": 4.0
+  },
+  "EB05-037": {
+   "name": "Black Maria",
+   "decks": 14,
+   "copies": 56,
+   "winning_decks": 5,
+   "share": 3.1,
+   "avg_copies": 4.0
+  },
+  "OP17-073": {
+   "name": "Basil Hawkins",
+   "decks": 15,
+   "copies": 58,
+   "winning_decks": 5,
+   "share": 3.3,
+   "avg_copies": 3.9
+  },
+  "EB04-031": {
+   "name": "King",
+   "decks": 15,
+   "copies": 60,
+   "winning_decks": 5,
+   "share": 3.3,
+   "avg_copies": 4.0
+  },
+  "EB04-030": {
+   "name": "Kaido",
+   "decks": 9,
+   "copies": 24,
+   "winning_decks": 0,
+   "share": 2.0,
+   "avg_copies": 2.7
+  },
+  "OP17-065": {
+   "name": "Queen",
+   "decks": 15,
+   "copies": 41,
+   "winning_decks": 5,
+   "share": 3.3,
+   "avg_copies": 2.7
+  },
+  "OP17-061": {
+   "name": "Lead Performers",
+   "decks": 15,
+   "copies": 45,
+   "winning_decks": 5,
+   "share": 3.3,
+   "avg_copies": 3.0
+  },
+  "OP17-076": {
+   "name": "Wo Ro Ro Ro Ro... I Think I've Sobered Up",
+   "decks": 6,
+   "copies": 9,
+   "winning_decks": 1,
+   "share": 1.3,
+   "avg_copies": 1.5
+  },
+  "OP07-077": {
+   "name": "We're Going to Claim the One Piece!!!",
+   "decks": 15,
+   "copies": 60,
+   "winning_decks": 5,
+   "share": 3.3,
+   "avg_copies": 4.0
+  },
+  "OP17-077": {
+   "name": "Kundali Dragon Swarm",
+   "decks": 2,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 1.0
+  },
+  "OP15-013": {
+   "name": "Pincers",
+   "decks": 2,
+   "copies": 7,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 3.5
+  },
+  "OP10-011": {
+   "name": "Tony Tony.Chopper",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "EB03-006": {
+   "name": "Nami",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "EB04-025": {
+   "name": "Nefeltari Vivi",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "EB04-023": {
+   "name": "Chaka & Pell",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "EB03-011": {
+   "name": "But If We Ever See Each Other Again... Will You Call Me Your Shipmate?!!",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "OP12-034": {
+   "name": "Perona",
+   "decks": 13,
+   "copies": 46,
+   "winning_decks": 3,
+   "share": 2.8,
+   "avg_copies": 3.5
+  },
+  "OP17-021": {
+   "name": "Crone Oli",
+   "decks": 2,
+   "copies": 8,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 4.0
+  },
+  "OP17-032": {
+   "name": "Limejuice",
+   "decks": 5,
+   "copies": 20,
+   "winning_decks": 0,
+   "share": 1.1,
+   "avg_copies": 4.0
+  },
+  "OP17-031": {
+   "name": "Yasopp",
+   "decks": 8,
+   "copies": 26,
+   "winning_decks": 0,
+   "share": 1.7,
+   "avg_copies": 3.2
+  },
+  "OP17-027": {
+   "name": "Benn.Beckman",
+   "decks": 6,
+   "copies": 24,
+   "winning_decks": 0,
+   "share": 1.3,
+   "avg_copies": 4.0
+  },
+  "OP17-037": {
+   "name": "Are You That Afraid of the New Era?!!",
+   "decks": 6,
+   "copies": 20,
+   "winning_decks": 0,
+   "share": 1.3,
+   "avg_copies": 3.3
+  },
+  "OP17-036": {
+   "name": "Withdraw Now and Allow Me to Save Face",
+   "decks": 6,
+   "copies": 14,
+   "winning_decks": 0,
+   "share": 1.3,
+   "avg_copies": 2.3
+  },
+  "P-111": {
+   "name": "Nico Robin",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP10-020": {
+   "name": "Gum-Gum UFO",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "OP12-087": {
+   "name": "Nico Robin",
+   "decks": 3,
+   "copies": 6,
+   "winning_decks": 1,
+   "share": 0.7,
+   "avg_copies": 2.0
+  },
+  "OP09-095": {
+   "name": "Laffitte",
+   "decks": 10,
+   "copies": 39,
+   "winning_decks": 3,
+   "share": 2.2,
+   "avg_copies": 3.9
+  },
+  "OP09-089": {
+   "name": "Stronger",
+   "decks": 9,
+   "copies": 35,
+   "winning_decks": 3,
+   "share": 2.0,
+   "avg_copies": 3.9
+  },
+  "OP11-083": {
+   "name": "Caribou",
+   "decks": 9,
+   "copies": 34,
+   "winning_decks": 3,
+   "share": 2.0,
+   "avg_copies": 3.8
+  },
+  "OP15-090": {
+   "name": "Perona",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP18-080": {
+   "name": "Van Augur",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP09-084": {
+   "name": "Catarina Devon",
+   "decks": 8,
+   "copies": 9,
+   "winning_decks": 3,
+   "share": 1.7,
+   "avg_copies": 1.1
+  },
+  "ST27-003": {
+   "name": "Kuzan",
+   "decks": 9,
+   "copies": 24,
+   "winning_decks": 3,
+   "share": 2.0,
+   "avg_copies": 2.7
+  },
+  "OP09-098": {
+   "name": "Black Hole",
+   "decks": 8,
+   "copies": 19,
+   "winning_decks": 2,
+   "share": 1.7,
+   "avg_copies": 2.4
+  },
+  "OP05-074": {
+   "name": "Eustass\"Captain\"Kid",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 1,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP06-038": {
+   "name": "The Billion-fold World Trichiliocosm",
+   "decks": 3,
+   "copies": 5,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 1.7
+  },
+  "OP06-050": {
+   "name": "Tashigi",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "ST33-001": {
+   "name": "Koby",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "ST33-003": {
+   "name": "Smoker",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP12-047": {
+   "name": "Sengoku",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP12-051": {
+   "name": "Hina",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "EB04-026": {
+   "name": "Bluegrass",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "EB04-022": {
+   "name": "Issho",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "ST33-005": {
+   "name": "Monkey.D.Garp",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP12-044": {
+   "name": "Sakazuki",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP12-057": {
+   "name": "Ice Block Pheasant Peck",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP10-062": {
+   "name": "Violet",
+   "decks": 3,
+   "copies": 7,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 2.3
+  },
+  "OP18-071": {
+   "name": "Trebol",
+   "decks": 2,
+   "copies": 8,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 4.0
+  },
+  "OP10-078": {
+   "name": "I Do Not Forgive Those Who Laugh at My Family!!!",
+   "decks": 3,
+   "copies": 12,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 4.0
+  },
+  "OP10-018": {
+   "name": "Ten-Layer Igloo",
+   "decks": 4,
+   "copies": 13,
+   "winning_decks": 0,
+   "share": 0.9,
+   "avg_copies": 3.2
+  },
+  "OP14-078": {
+   "name": "Bullet String",
+   "decks": 3,
+   "copies": 12,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 4.0
+  },
+  "OP17-004": {
+   "name": "Inuarashi & Nekomamushi",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP12-002": {
+   "name": "Edward.Newgate",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP17-029": {
+   "name": "Hongo",
+   "decks": 2,
+   "copies": 6,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 3.0
+  },
+  "OP17-033": {
+   "name": "Lucky.Roux",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP17-028": {
+   "name": "Bonk Punch & Monster",
+   "decks": 3,
+   "copies": 6,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 2.0
+  },
+  "ST16-004": {
+   "name": "Shanks",
+   "decks": 3,
+   "copies": 6,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 2.0
+  },
+  "ST29-009": {
+   "name": "Nico Robin",
+   "decks": 3,
+   "copies": 12,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 4.0
+  },
+  "EB03-059": {
+   "name": "S-Snake",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "ST29-005": {
+   "name": "Jinbe",
+   "decks": 3,
+   "copies": 11,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 3.7
+  },
+  "OP13-108": {
+   "name": "Jewelry Bonney",
+   "decks": 4,
+   "copies": 14,
+   "winning_decks": 0,
+   "share": 0.9,
+   "avg_copies": 3.5
+  },
+  "ST29-016": {
+   "name": "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+   "decks": 3,
+   "copies": 7,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 2.3
+  },
+  "EB04-059": {
+   "name": "Black Rope Dragon Twister",
+   "decks": 7,
+   "copies": 13,
+   "winning_decks": 1,
+   "share": 1.5,
+   "avg_copies": 1.9
+  },
+  "OP07-002": {
+   "name": "Ain",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP11-061": {
+   "name": "Gum-Gum Jet Culverin",
+   "decks": 2,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 1.5
+  },
+  "ST31-004": {
+   "name": "Monkey.D.Luffy",
+   "decks": 2,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 1.5
+  },
+  "ST18-005": {
+   "name": "Luffy-Tarou",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "ST12-017": {
+   "name": "Plastic Surgery Shot",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP09-100": {
+   "name": "Karasu",
+   "decks": 2,
+   "copies": 8,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 4.0
+  },
+  "OP09-112": {
+   "name": "Belo Betty",
+   "decks": 2,
+   "copies": 8,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 4.0
+  },
+  "OP17-108": {
+   "name": "Charlotte Brulee",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "EB05-054": {
+   "name": "Charlotte Brulee",
+   "decks": 2,
+   "copies": 8,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 4.0
+  },
+  "OP05-005": {
+   "name": "Karasu",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP09-108": {
+   "name": "Bartholomew Kuma",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "EB05-059": {
+   "name": "Charlotte Pudding!!",
+   "decks": 3,
+   "copies": 10,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 3.3
+  },
+  "EB05-002": {
+   "name": "Doll",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP11-004": {
+   "name": "Kujyaku",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "OP11-082": {
+   "name": "Aramaki",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "EB03-008": {
+   "name": "Hibari",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "EB04-047": {
+   "name": "Helmeppo",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP11-008": {
+   "name": "Doll",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "PRB02-001": {
+   "name": "Koby",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "EB03-041": {
+   "name": "Kujyaku",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "OP18-007": {
+   "name": "Smoker",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP11-017": {
+   "name": "X.Drake",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP11-092": {
+   "name": "Helmeppo",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "EB04-044": {
+   "name": "Koby",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "EB04-003": {
+   "name": "Smoker & Tashigi",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP11-099": {
+   "name": "I'm Gonna Be a Navy Officer!!!",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "OP14-018": {
+   "name": "Time for the Counterattack",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP11-018": {
+   "name": "Honesty Impact",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP06-035": {
+   "name": "Hody Jones",
+   "decks": 2,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 2.0
+  },
+  "OP17-024": {
+   "name": "Howling Gab",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP13-043": {
+   "name": "Otama",
+   "decks": 2,
+   "copies": 8,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 4.0
+  },
+  "OP11-054": {
+   "name": "Nami",
+   "decks": 4,
+   "copies": 12,
+   "winning_decks": 1,
+   "share": 0.9,
+   "avg_copies": 3.0
+  },
+  "OP06-119": {
+   "name": "Sanji",
+   "decks": 2,
+   "copies": 8,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 4.0
+  },
+  "OP08-076": {
+   "name": "It's to Die For...",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP09-045": {
+   "name": "Cabaji",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "OP05-082": {
+   "name": "Shirahoshi",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "OP13-083": {
+   "name": "St. Jaygarcia Saturn",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP13-084": {
+   "name": "St. Shepherd Ju Peter",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP13-082": {
+   "name": "Five Elders",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP13-098": {
+   "name": "Never Existed... in the First Place...",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP11-097": {
+   "name": "After All These Years I'm Losing My Edge!!!",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "OP13-099": {
+   "name": "The Empty Throne",
+   "decks": 1,
+   "copies": 1,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 1.0
+  },
+  "OP07-099": {
+   "name": "Usopp",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP16-107": {
+   "name": "Jesus Burgess",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
+  "PRB02-017": {
+   "name": "Boa Hancock",
+   "decks": 1,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 4.0
+  },
+  "OP15-119": {
+   "name": "Monkey.D.Luffy",
+   "decks": 2,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.4,
+   "avg_copies": 2.0
+  },
+  "OP09-107": {
+   "name": "Nico Robin",
+   "decks": 4,
+   "copies": 13,
+   "winning_decks": 1,
+   "share": 0.9,
+   "avg_copies": 3.2
+  },
+  "OP13-110": {
+   "name": "Stussy",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "EB03-005": {
+   "name": "Sugar",
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
+  },
+  "ST10-015": {
+   "name": "Gum-Gum Giant Sumo Slap",
+   "decks": 1,
+   "copies": 3,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 3.0
+  },
   "OP11-003": {
    "name": "Usopp",
-   "decks": 19,
-   "copies": 72,
+   "decks": 16,
+   "copies": 62,
    "winning_decks": 8,
-   "share": 4.6,
-   "avg_copies": 3.8
+   "share": 3.5,
+   "avg_copies": 3.9
   },
   "ST31-002": {
    "name": "Jinbe",
-   "decks": 25,
-   "copies": 82,
-   "winning_decks": 12,
-   "share": 6.0,
-   "avg_copies": 3.3
+   "decks": 21,
+   "copies": 71,
+   "winning_decks": 11,
+   "share": 4.6,
+   "avg_copies": 3.4
   },
   "OP13-029": {
    "name": "Jinbe",
-   "decks": 19,
-   "copies": 46,
-   "winning_decks": 10,
-   "share": 4.6,
-   "avg_copies": 2.4
+   "decks": 18,
+   "copies": 42,
+   "winning_decks": 9,
+   "share": 3.9,
+   "avg_copies": 2.3
   },
   "OP06-016": {
    "name": "Raise Max",
@@ -3068,20 +4108,12 @@
    "share": 0.2,
    "avg_copies": 2.0
   },
-  "OP13-007": {
-   "name": "Ace & Sabo & Luffy",
-   "decks": 4,
-   "copies": 8,
-   "winning_decks": 2,
-   "share": 1.0,
-   "avg_copies": 2.0
-  },
   "OP10-040": {
    "name": "The Weak Do Not Have the Right to Choose How They Die",
-   "decks": 19,
-   "copies": 24,
-   "winning_decks": 9,
-   "share": 4.6,
+   "decks": 15,
+   "copies": 19,
+   "winning_decks": 7,
+   "share": 3.3,
    "avg_copies": 1.3
   },
   "EB01-010": {
@@ -3094,35 +4126,35 @@
   },
   "OP06-106": {
    "name": "Kouzuki Hiyori",
-   "decks": 12,
-   "copies": 44,
-   "winning_decks": 5,
-   "share": 2.9,
-   "avg_copies": 3.7
+   "decks": 10,
+   "copies": 38,
+   "winning_decks": 4,
+   "share": 2.2,
+   "avg_copies": 3.8
   },
   "OP14-115": {
    "name": "Rindo",
-   "decks": 7,
-   "copies": 28,
-   "winning_decks": 4,
-   "share": 1.7,
+   "decks": 6,
+   "copies": 24,
+   "winning_decks": 3,
+   "share": 1.3,
    "avg_copies": 4.0
   },
   "OP07-056": {
    "name": "Slave Arrow",
-   "decks": 8,
-   "copies": 8,
-   "winning_decks": 5,
-   "share": 1.9,
+   "decks": 7,
+   "copies": 7,
+   "winning_decks": 4,
+   "share": 1.5,
    "avg_copies": 1.0
   },
   "OP07-057": {
    "name": "Perfume Femur",
-   "decks": 13,
-   "copies": 22,
-   "winning_decks": 5,
-   "share": 3.1,
-   "avg_copies": 1.7
+   "decks": 10,
+   "copies": 18,
+   "winning_decks": 4,
+   "share": 2.2,
+   "avg_copies": 1.8
   },
   "ST02-007": {
    "name": "Jewelry Bonney",
@@ -3134,10 +4166,10 @@
   },
   "ST24-002": {
    "name": "Kid & Killer",
-   "decks": 11,
-   "copies": 42,
-   "winning_decks": 5,
-   "share": 2.6,
+   "decks": 10,
+   "copies": 38,
+   "winning_decks": 4,
+   "share": 2.2,
    "avg_copies": 3.8
   },
   "OP07-021": {
@@ -3153,7 +4185,7 @@
    "decks": 10,
    "copies": 37,
    "winning_decks": 5,
-   "share": 2.4,
+   "share": 2.2,
    "avg_copies": 3.7
   },
   "OP12-118": {
@@ -3204,44 +4236,12 @@
    "share": 0.2,
    "avg_copies": 2.0
   },
-  "OP09-089": {
-   "name": "Stronger",
-   "decks": 9,
-   "copies": 36,
-   "winning_decks": 3,
-   "share": 2.2,
-   "avg_copies": 4.0
-  },
-  "OP09-095": {
-   "name": "Laffitte",
-   "decks": 10,
-   "copies": 39,
-   "winning_decks": 3,
-   "share": 2.4,
-   "avg_copies": 3.9
-  },
-  "OP11-083": {
-   "name": "Caribou",
-   "decks": 9,
-   "copies": 35,
-   "winning_decks": 3,
-   "share": 2.2,
-   "avg_copies": 3.9
-  },
   "OP09-090": {
    "name": "Doc Q",
-   "decks": 9,
-   "copies": 35,
+   "decks": 8,
+   "copies": 31,
    "winning_decks": 3,
-   "share": 2.2,
-   "avg_copies": 3.9
-  },
-  "OP09-086": {
-   "name": "Jesus Burgess",
-   "decks": 15,
-   "copies": 59,
-   "winning_decks": 3,
-   "share": 3.6,
+   "share": 1.7,
    "avg_copies": 3.9
   },
   "OP10-086": {
@@ -3257,136 +4257,24 @@
    "decks": 5,
    "copies": 10,
    "winning_decks": 3,
-   "share": 1.2,
+   "share": 1.1,
    "avg_copies": 2.0
   },
   "OP09-083": {
    "name": "Van Augur",
-   "decks": 9,
-   "copies": 36,
-   "winning_decks": 3,
-   "share": 2.2,
-   "avg_copies": 4.0
-  },
-  "OP10-082": {
-   "name": "Kuzan",
-   "decks": 9,
-   "copies": 36,
-   "winning_decks": 3,
-   "share": 2.2,
-   "avg_copies": 4.0
-  },
-  "OP09-084": {
-   "name": "Catarina Devon",
    "decks": 8,
-   "copies": 8,
+   "copies": 32,
    "winning_decks": 3,
-   "share": 1.9,
-   "avg_copies": 1.0
-  },
-  "ST27-003": {
-   "name": "Kuzan",
-   "decks": 9,
-   "copies": 22,
-   "winning_decks": 3,
-   "share": 2.2,
-   "avg_copies": 2.4
-  },
-  "OP09-093": {
-   "name": "Marshall.D.Teach",
-   "decks": 16,
-   "copies": 58,
-   "winning_decks": 3,
-   "share": 3.8,
-   "avg_copies": 3.6
-  },
-  "OP09-096": {
-   "name": "My Era...Begins!!",
-   "decks": 14,
-   "copies": 51,
-   "winning_decks": 3,
-   "share": 3.4,
-   "avg_copies": 3.6
+   "share": 1.7,
+   "avg_copies": 4.0
   },
   "OP07-096": {
    "name": "Tempest Kick",
-   "decks": 6,
-   "copies": 18,
+   "decks": 5,
+   "copies": 15,
    "winning_decks": 2,
-   "share": 1.4,
+   "share": 1.1,
    "avg_copies": 3.0
-  },
-  "OP09-098": {
-   "name": "Black Hole",
-   "decks": 8,
-   "copies": 19,
-   "winning_decks": 2,
-   "share": 1.9,
-   "avg_copies": 2.4
-  },
-  "OP09-099": {
-   "name": "Fullalead",
-   "decks": 15,
-   "copies": 60,
-   "winning_decks": 3,
-   "share": 3.6,
-   "avg_copies": 4.0
-  },
-  "EB04-032": {
-   "name": "Queen",
-   "decks": 19,
-   "copies": 76,
-   "winning_decks": 5,
-   "share": 4.6,
-   "avg_copies": 4.0
-  },
-  "EB05-037": {
-   "name": "Black Maria",
-   "decks": 18,
-   "copies": 72,
-   "winning_decks": 5,
-   "share": 4.3,
-   "avg_copies": 4.0
-  },
-  "OP17-073": {
-   "name": "Basil Hawkins",
-   "decks": 19,
-   "copies": 73,
-   "winning_decks": 5,
-   "share": 4.6,
-   "avg_copies": 3.8
-  },
-  "EB04-031": {
-   "name": "King",
-   "decks": 19,
-   "copies": 76,
-   "winning_decks": 5,
-   "share": 4.6,
-   "avg_copies": 4.0
-  },
-  "OP17-065": {
-   "name": "Queen",
-   "decks": 19,
-   "copies": 54,
-   "winning_decks": 6,
-   "share": 4.6,
-   "avg_copies": 2.8
-  },
-  "OP17-061": {
-   "name": "Lead Performers",
-   "decks": 18,
-   "copies": 53,
-   "winning_decks": 5,
-   "share": 4.3,
-   "avg_copies": 2.9
-  },
-  "OP07-077": {
-   "name": "We're Going to Claim the One Piece!!!",
-   "decks": 20,
-   "copies": 78,
-   "winning_decks": 5,
-   "share": 4.8,
-   "avg_copies": 3.9
   },
   "OP15-084": {
    "name": "Dr. Hogback",
@@ -3452,52 +4340,20 @@
    "share": 0.2,
    "avg_copies": 2.0
   },
-  "ST16-004": {
-   "name": "Shanks",
-   "decks": 2,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 2.0
-  },
-  "EB04-030": {
-   "name": "Kaido",
-   "decks": 10,
-   "copies": 25,
-   "winning_decks": 0,
-   "share": 2.4,
-   "avg_copies": 2.5
-  },
   "OP08-077": {
    "name": "Conquest of the Sea",
-   "decks": 3,
-   "copies": 4,
+   "decks": 2,
+   "copies": 3,
    "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 1.3
-  },
-  "OP17-076": {
-   "name": "Wo Ro Ro Ro Ro... I Think I've Sobered Up",
-   "decks": 6,
-   "copies": 9,
-   "winning_decks": 1,
-   "share": 1.4,
+   "share": 0.4,
    "avg_copies": 1.5
-  },
-  "OP10-062": {
-   "name": "Violet",
-   "decks": 3,
-   "copies": 7,
-   "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 2.3
   },
   "EB03-010": {
    "name": "Monet",
    "decks": 2,
    "copies": 6,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.0
   },
   "EB04-040": {
@@ -3505,7 +4361,7 @@
    "decks": 4,
    "copies": 7,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 1.8
   },
   "ST30-016": {
@@ -3516,44 +4372,28 @@
    "share": 0.2,
    "avg_copies": 3.0
   },
-  "OP10-018": {
-   "name": "Ten-Layer Igloo",
-   "decks": 3,
-   "copies": 10,
-   "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 3.3
-  },
-  "OP14-078": {
-   "name": "Bullet String",
-   "decks": 2,
-   "copies": 8,
-   "winning_decks": 1,
-   "share": 0.5,
-   "avg_copies": 4.0
-  },
   "OP17-094": {
    "name": "Rodo",
-   "decks": 7,
-   "copies": 16,
-   "winning_decks": 3,
-   "share": 1.7,
-   "avg_copies": 2.3
+   "decks": 6,
+   "copies": 15,
+   "winning_decks": 2,
+   "share": 1.3,
+   "avg_copies": 2.5
   },
   "ST14-003": {
    "name": "Sanji",
-   "decks": 2,
-   "copies": 5,
-   "winning_decks": 1,
-   "share": 0.5,
-   "avg_copies": 2.5
+   "decks": 1,
+   "copies": 2,
+   "winning_decks": 0,
+   "share": 0.2,
+   "avg_copies": 2.0
   },
   "ST14-017": {
    "name": "Thousand Sunny",
-   "decks": 3,
-   "copies": 6,
-   "winning_decks": 1,
-   "share": 0.7,
+   "decks": 2,
+   "copies": 4,
+   "winning_decks": 0,
+   "share": 0.4,
    "avg_copies": 2.0
   },
   "OP09-109": {
@@ -3561,7 +4401,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP06-041": {
@@ -3569,95 +4409,31 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 4.0
-  },
-  "OP16-109": {
-   "name": "Doc Q",
-   "decks": 7,
-   "copies": 25,
-   "winning_decks": 0,
-   "share": 1.7,
-   "avg_copies": 3.6
-  },
-  "OP16-110": {
-   "name": "Vasco Shot",
-   "decks": 7,
-   "copies": 28,
-   "winning_decks": 0,
-   "share": 1.7,
-   "avg_copies": 4.0
-  },
-  "OP16-103": {
-   "name": "Van Augur",
-   "decks": 7,
-   "copies": 13,
-   "winning_decks": 0,
-   "share": 1.7,
-   "avg_copies": 1.9
-  },
-  "OP16-104": {
-   "name": "Catarina Devon",
-   "decks": 7,
-   "copies": 28,
-   "winning_decks": 0,
-   "share": 1.7,
-   "avg_copies": 4.0
-  },
-  "OP16-106": {
-   "name": "Sanjuan.Wolf",
-   "decks": 7,
-   "copies": 11,
-   "winning_decks": 0,
-   "share": 1.7,
-   "avg_copies": 1.6
-  },
-  "OP16-108": {
-   "name": "Shiryu",
-   "decks": 7,
-   "copies": 28,
-   "winning_decks": 0,
-   "share": 1.7,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP16-115": {
    "name": "Black Vortex",
-   "decks": 6,
-   "copies": 6,
+   "decks": 5,
+   "copies": 5,
    "winning_decks": 0,
-   "share": 1.4,
+   "share": 1.1,
    "avg_copies": 1.0
-  },
-  "OP16-116": {
-   "name": "Zehahahahaha!",
-   "decks": 7,
-   "copies": 14,
-   "winning_decks": 0,
-   "share": 1.7,
-   "avg_copies": 2.0
   },
   "OP14-005": {
    "name": "Killer",
-   "decks": 3,
-   "copies": 8,
-   "winning_decks": 0,
-   "share": 0.7,
-   "avg_copies": 2.7
-  },
-  "OP15-013": {
-   "name": "Pincers",
    "decks": 2,
-   "copies": 7,
+   "copies": 6,
    "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 3.5
+   "share": 0.4,
+   "avg_copies": 3.0
   },
   "EB01-003": {
    "name": "Kid & Killer",
-   "decks": 3,
-   "copies": 6,
+   "decks": 2,
+   "copies": 4,
    "winning_decks": 0,
-   "share": 0.7,
+   "share": 0.4,
    "avg_copies": 2.0
   },
   "OP08-118": {
@@ -3678,35 +4454,19 @@
   },
   "ST27-005": {
    "name": "Marshall.D.Teach",
-   "decks": 8,
-   "copies": 10,
+   "decks": 7,
+   "copies": 9,
    "winning_decks": 3,
-   "share": 1.9,
-   "avg_copies": 1.2
-  },
-  "OP11-054": {
-   "name": "Nami",
-   "decks": 4,
-   "copies": 11,
-   "winning_decks": 1,
-   "share": 1.0,
-   "avg_copies": 2.8
+   "share": 1.5,
+   "avg_copies": 1.3
   },
   "OP17-075": {
    "name": "X.Drake",
    "decks": 4,
    "copies": 11,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 2.8
-  },
-  "OP17-077": {
-   "name": "Kundali Dragon Swarm",
-   "decks": 2,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 1.0
   },
   "OP16-102": {
    "name": "Avalo Pizarro",
@@ -3716,20 +4476,12 @@
    "share": 0.2,
    "avg_copies": 2.0
   },
-  "EB04-059": {
-   "name": "Black Rope Dragon Twister",
-   "decks": 10,
-   "copies": 18,
-   "winning_decks": 3,
-   "share": 2.4,
-   "avg_copies": 1.8
-  },
   "OP15-114": {
    "name": "Wyper",
    "decks": 4,
    "copies": 11,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 2.8
   },
   "OP12-055": {
@@ -3742,11 +4494,11 @@
   },
   "OP08-074": {
    "name": "Black Maria",
-   "decks": 2,
-   "copies": 4,
+   "decks": 1,
+   "copies": 1,
    "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 2.0
+   "share": 0.2,
+   "avg_copies": 1.0
   },
   "OP17-060": {
    "name": "Ulti & Page One",
@@ -3755,14 +4507,6 @@
    "winning_decks": 0,
    "share": 0.2,
    "avg_copies": 1.0
-  },
-  "OP17-031": {
-   "name": "Yasopp",
-   "decks": 6,
-   "copies": 19,
-   "winning_decks": 0,
-   "share": 1.4,
-   "avg_copies": 3.2
   },
   "OP05-006": {
    "name": "Koala",
@@ -3828,516 +4572,36 @@
    "share": 0.2,
    "avg_copies": 1.0
   },
-  "OP09-100": {
-   "name": "Karasu",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP09-112": {
-   "name": "Belo Betty",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "EB05-054": {
-   "name": "Charlotte Brulee",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
   "OP17-110": {
    "name": "Charlotte Perospero",
-   "decks": 4,
-   "copies": 8,
-   "winning_decks": 2,
-   "share": 1.0,
-   "avg_copies": 2.0
-  },
-  "EB05-059": {
-   "name": "Charlotte Pudding!!",
-   "decks": 2,
+   "decks": 3,
    "copies": 6,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 3.0
+   "winning_decks": 1,
+   "share": 0.7,
+   "avg_copies": 2.0
   },
   "OP15-047": {
    "name": "Sanji",
    "decks": 2,
    "copies": 2,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 1.0
   },
   "ST34-003": {
    "name": "Charlotte Brulee",
-   "decks": 2,
-   "copies": 7,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 3.5
-  },
-  "OP11-004": {
-   "name": "Kujyaku",
    "decks": 1,
    "copies": 4,
    "winning_decks": 0,
    "share": 0.2,
    "avg_copies": 4.0
-  },
-  "OP11-082": {
-   "name": "Aramaki",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "EB05-002": {
-   "name": "Doll",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP11-096": {
-   "name": "Ripper",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
-  },
-  "EB03-008": {
-   "name": "Hibari",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "EB04-047": {
-   "name": "Helmeppo",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP11-008": {
-   "name": "Doll",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "EB03-041": {
-   "name": "Kujyaku",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "PRB02-001": {
-   "name": "Koby",
-   "decks": 1,
-   "copies": 3,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 3.0
-  },
-  "OP11-092": {
-   "name": "Helmeppo",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "EB04-044": {
-   "name": "Koby",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP11-119": {
-   "name": "Koby",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
-  },
-  "OP11-097": {
-   "name": "After All These Years I'm Losing My Edge!!!",
-   "decks": 2,
-   "copies": 5,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 2.5
-  },
-  "OP11-099": {
-   "name": "I'm Gonna Be a Navy Officer!!!",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP11-018": {
-   "name": "Honesty Impact",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
-  },
-  "OP08-062": {
-   "name": "Charlotte Katakuri",
-   "decks": 1,
-   "copies": 3,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 3.0
-  },
-  "OP17-104": {
-   "name": "Charlotte Cracker",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
-  },
-  "ST34-002": {
-   "name": "Charlotte Cracker",
-   "decks": 1,
-   "copies": 3,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 3.0
-  },
-  "OP17-103": {
-   "name": "Charlotte Katakuri",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP14-026": {
-   "name": "Kouzuki Oden",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
-  },
-  "EB03-017": {
-   "name": "Jewelry Bonney",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
-  },
-  "OP05-082": {
-   "name": "Shirahoshi",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
-  },
-  "OP13-092": {
-   "name": "Saint Mjosgard",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP13-083": {
-   "name": "St. Jaygarcia Saturn",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP13-084": {
-   "name": "St. Shepherd Ju Peter",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP13-082": {
-   "name": "Five Elders",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP13-098": {
-   "name": "Never Existed... in the First Place...",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP13-097": {
-   "name": "The World's Equilibrium Cannot Be Maintained Forever",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
-  },
-  "OP05-096": {
-   "name": "I Bid 500 Million!!",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
-  },
-  "OP13-099": {
-   "name": "The Empty Throne",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
-  },
-  "EB01-059": {
-   "name": "Kingdom Come",
-   "decks": 5,
-   "copies": 7,
-   "winning_decks": 2,
-   "share": 1.2,
-   "avg_copies": 1.4
-  },
-  "OP15-069": {
-   "name": "Nola",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 1,
-   "share": 0.2,
-   "avg_copies": 2.0
-  },
-  "OP10-078": {
-   "name": "I Do Not Forgive Those Who Laugh at My Family!!!",
-   "decks": 2,
-   "copies": 8,
-   "winning_decks": 1,
-   "share": 0.5,
-   "avg_copies": 4.0
-  },
-  "OP16-111": {
-   "name": "Boa Sandersonia",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
-  },
-  "P-111": {
-   "name": "Nico Robin",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
-  },
-  "OP12-034": {
-   "name": "Perona",
-   "decks": 11,
-   "copies": 40,
-   "winning_decks": 3,
-   "share": 2.6,
-   "avg_copies": 3.6
-  },
-  "OP17-026": {
-   "name": "Fugar",
-   "decks": 4,
-   "copies": 14,
-   "winning_decks": 0,
-   "share": 1.0,
-   "avg_copies": 3.5
-  },
-  "OP17-032": {
-   "name": "Limejuice",
-   "decks": 4,
-   "copies": 16,
-   "winning_decks": 0,
-   "share": 1.0,
-   "avg_copies": 4.0
-  },
-  "OP17-028": {
-   "name": "Bonk Punch & Monster",
-   "decks": 3,
-   "copies": 6,
-   "winning_decks": 0,
-   "share": 0.7,
-   "avg_copies": 2.0
-  },
-  "OP17-029": {
-   "name": "Hongo",
-   "decks": 2,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 2.0
-  },
-  "OP17-027": {
-   "name": "Benn.Beckman",
-   "decks": 4,
-   "copies": 16,
-   "winning_decks": 0,
-   "share": 1.0,
-   "avg_copies": 4.0
-  },
-  "OP17-037": {
-   "name": "Are You That Afraid of the New Era?!!",
-   "decks": 4,
-   "copies": 14,
-   "winning_decks": 0,
-   "share": 1.0,
-   "avg_copies": 3.5
-  },
-  "OP17-036": {
-   "name": "Withdraw Now and Allow Me to Save Face",
-   "decks": 5,
-   "copies": 11,
-   "winning_decks": 0,
-   "share": 1.2,
-   "avg_copies": 2.2
-  },
-  "EB04-037": {
-   "name": "Porche",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP07-065": {
-   "name": "Gina",
-   "decks": 1,
-   "copies": 3,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 3.0
-  },
-  "OP07-066": {
-   "name": "Tony Tony.Chopper",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP10-075": {
-   "name": "Foxy",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP07-060": {
-   "name": "Itomimizu",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP07-072": {
-   "name": "Porche",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "EB04-033": {
-   "name": "Groggy Monsters",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP07-071": {
-   "name": "Foxy",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "EB04-036": {
-   "name": "Foxy",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP06-117": {
-   "name": "The Ark Maxim",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
-  },
-  "EB02-030": {
-   "name": "And That's When Somebody Makes Fun of Their Friend's Dream!!!!",
-   "decks": 3,
-   "copies": 4,
-   "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 1.3
-  },
-  "OP17-016": {
-   "name": "Rakuyo",
-   "decks": 1,
-   "copies": 3,
-   "winning_decks": 1,
-   "share": 0.2,
-   "avg_copies": 3.0
-  },
-  "P-046": {
-   "name": "Yamato",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
   },
   "OP04-056": {
    "name": "Gum-Gum Red Roc",
    "decks": 4,
    "copies": 6,
    "winning_decks": 1,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 1.5
   },
   "OP01-057": {
@@ -4353,7 +4617,7 @@
    "decks": 4,
    "copies": 16,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 4.0
   },
   "OP04-041": {
@@ -4361,7 +4625,7 @@
    "decks": 4,
    "copies": 16,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 4.0
   },
   "OP09-050": {
@@ -4369,7 +4633,7 @@
    "decks": 4,
    "copies": 16,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 4.0
   },
   "OP03-048": {
@@ -4377,7 +4641,7 @@
    "decks": 4,
    "copies": 15,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 3.8
   },
   "OP03-050": {
@@ -4385,7 +4649,7 @@
    "decks": 4,
    "copies": 16,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 4.0
   },
   "OP04-050": {
@@ -4393,7 +4657,7 @@
    "decks": 4,
    "copies": 16,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 4.0
   },
   "EB03-023": {
@@ -4409,7 +4673,7 @@
    "decks": 4,
    "copies": 16,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 4.0
   },
   "OP03-047": {
@@ -4417,7 +4681,7 @@
    "decks": 4,
    "copies": 8,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 2.0
   },
   "OP03-054": {
@@ -4425,7 +4689,7 @@
    "decks": 4,
    "copies": 16,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 4.0
   },
   "OP03-055": {
@@ -4433,7 +4697,7 @@
    "decks": 4,
    "copies": 16,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 4.0
   },
   "EB05-030": {
@@ -4441,7 +4705,7 @@
    "decks": 5,
    "copies": 17,
    "winning_decks": 0,
-   "share": 1.2,
+   "share": 1.1,
    "avg_copies": 3.4
   },
   "OP03-056": {
@@ -4449,7 +4713,7 @@
    "decks": 4,
    "copies": 16,
    "winning_decks": 0,
-   "share": 1.0,
+   "share": 0.9,
    "avg_copies": 4.0
   },
   "OP01-027": {
@@ -4465,7 +4729,7 @@
    "decks": 5,
    "copies": 16,
    "winning_decks": 2,
-   "share": 1.2,
+   "share": 1.1,
    "avg_copies": 3.2
   },
   "ST06-015": {
@@ -4483,22 +4747,6 @@
    "winning_decks": 2,
    "share": 0.7,
    "avg_copies": 3.0
-  },
-  "OP13-043": {
-   "name": "Otama",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
-  },
-  "OP06-119": {
-   "name": "Sanji",
-   "decks": 1,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 4.0
   },
   "OP01-070": {
    "name": "Dracule Mihawk",
@@ -4529,7 +4777,7 @@
    "decks": 8,
    "copies": 12,
    "winning_decks": 4,
-   "share": 1.9,
+   "share": 1.7,
    "avg_copies": 1.5
   },
   "OP04-038": {
@@ -4537,7 +4785,7 @@
    "decks": 13,
    "copies": 31,
    "winning_decks": 6,
-   "share": 3.1,
+   "share": 2.8,
    "avg_copies": 2.4
   },
   "OP15-108": {
@@ -4580,14 +4828,6 @@
    "share": 0.2,
    "avg_copies": 3.0
   },
-  "OP15-119": {
-   "name": "Monkey.D.Luffy",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
-  },
   "OP12-114": {
    "name": "Wyper",
    "decks": 1,
@@ -4612,6 +4852,14 @@
    "share": 0.2,
    "avg_copies": 4.0
   },
+  "EB01-059": {
+   "name": "Kingdom Come",
+   "decks": 3,
+   "copies": 4,
+   "winning_decks": 2,
+   "share": 0.7,
+   "avg_copies": 1.3
+  },
   "OP05-117": {
    "name": "Upper Yard",
    "decks": 1,
@@ -4633,7 +4881,7 @@
    "decks": 2,
    "copies": 2,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 1.0
   },
   "EB05-007": {
@@ -4652,12 +4900,20 @@
    "share": 0.2,
    "avg_copies": 3.0
   },
+  "OP17-026": {
+   "name": "Fugar",
+   "decks": 3,
+   "copies": 10,
+   "winning_decks": 0,
+   "share": 0.7,
+   "avg_copies": 3.3
+  },
   "OP06-101": {
    "name": "O-Nami",
    "decks": 2,
    "copies": 7,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 3.5
   },
   "OP04-100": {
@@ -4665,15 +4921,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 4.0
-  },
-  "ST29-009": {
-   "name": "Nico Robin",
-   "decks": 2,
-   "copies": 8,
-   "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP07-113": {
@@ -4681,7 +4929,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP09-111": {
@@ -4690,38 +4938,6 @@
    "copies": 2,
    "winning_decks": 0,
    "share": 0.2,
-   "avg_copies": 2.0
-  },
-  "OP09-107": {
-   "name": "Nico Robin",
-   "decks": 3,
-   "copies": 10,
-   "winning_decks": 1,
-   "share": 0.7,
-   "avg_copies": 3.3
-  },
-  "ST29-005": {
-   "name": "Jinbe",
-   "decks": 2,
-   "copies": 7,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 3.5
-  },
-  "OP13-108": {
-   "name": "Jewelry Bonney",
-   "decks": 2,
-   "copies": 8,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 4.0
-  },
-  "ST29-016": {
-   "name": "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
-   "decks": 2,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.5,
    "avg_copies": 2.0
   },
   "OP03-120": {
@@ -4737,16 +4953,8 @@
    "decks": 2,
    "copies": 3,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 1.5
-  },
-  "OP06-035": {
-   "name": "Hody Jones",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
   },
   "OP06-036": {
    "name": "Ryuma",
@@ -4763,6 +4971,14 @@
    "winning_decks": 3,
    "share": 0.7,
    "avg_copies": 2.3
+  },
+  "EB02-030": {
+   "name": "And That's When Somebody Makes Fun of Their Friend's Dream!!!!",
+   "decks": 2,
+   "copies": 3,
+   "winning_decks": 1,
+   "share": 0.4,
+   "avg_copies": 1.5
   },
   "EB05-023": {
    "name": "Osome",
@@ -4836,14 +5052,6 @@
    "share": 0.2,
    "avg_copies": 4.0
   },
-  "OP11-061": {
-   "name": "Gum-Gum Jet Culverin",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
-  },
   "OP10-030": {
    "name": "Smoker",
    "decks": 1,
@@ -4865,7 +5073,7 @@
    "decks": 2,
    "copies": 2,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 1.0
   },
   "EB01-029": {
@@ -4889,7 +5097,7 @@
    "decks": 2,
    "copies": 4,
    "winning_decks": 1,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 2.0
   },
   "OP02-051": {
@@ -4899,14 +5107,6 @@
    "winning_decks": 0,
    "share": 0.2,
    "avg_copies": 3.0
-  },
-  "OP06-038": {
-   "name": "The Billion-fold World Trichiliocosm",
-   "decks": 1,
-   "copies": 1,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 1.0
   },
   "OP03-008": {
    "name": "Buggy",
@@ -4972,14 +5172,6 @@
    "share": 0.2,
    "avg_copies": 4.0
   },
-  "ST31-004": {
-   "name": "Monkey.D.Luffy",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
-  },
   "OP17-091": {
    "name": "Brook",
    "decks": 1,
@@ -5012,30 +5204,6 @@
    "share": 0.2,
    "avg_copies": 2.0
   },
-  "OP14-022": {
-   "name": "Usopp",
-   "decks": 1,
-   "copies": 3,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 3.0
-  },
-  "OP13-118": {
-   "name": "Monkey.D.Luffy",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
-  },
-  "OP05-038": {
-   "name": "Charlestone",
-   "decks": 2,
-   "copies": 4,
-   "winning_decks": 0,
-   "share": 0.5,
-   "avg_copies": 2.0
-  },
   "OP01-006": {
    "name": "Otama",
    "decks": 1,
@@ -5065,7 +5233,7 @@
    "decks": 2,
    "copies": 8,
    "winning_decks": 0,
-   "share": 0.5,
+   "share": 0.4,
    "avg_copies": 4.0
   },
   "OP01-025": {
@@ -5100,14 +5268,6 @@
    "share": 0.2,
    "avg_copies": 1.0
   },
-  "OP16-032": {
-   "name": "Boa Hancock",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
-  },
   "OP17-069": {
    "name": "Jack",
    "decks": 1,
@@ -5115,14 +5275,6 @@
    "winning_decks": 0,
    "share": 0.2,
    "avg_copies": 1.0
-  },
-  "OP12-087": {
-   "name": "Nico Robin",
-   "decks": 1,
-   "copies": 2,
-   "winning_decks": 0,
-   "share": 0.2,
-   "avg_copies": 2.0
   },
   "OP18-044": {
    "name": "Mr.Beans & Miss.Katherina",
@@ -5145,47 +5297,67 @@
   [
    "OP17-039",
    "Rocks.D.Xebec",
-   78
+   82
   ],
   [
    "OP13-001",
    "Monkey.D.Luffy",
-   65
+   62
   ],
   [
    "OP09-042",
    "Buggy",
-   29
+   39
   ],
   [
    "OP18-060",
    "Saint Gunko",
-   23
+   35
   ],
   [
    "EB05-010",
    "Nico Robin",
-   23
+   27
   ],
   [
    "OP17-058",
    "Kaido",
-   19
-  ],
-  [
-   "OP05-098",
-   "Enel",
-   18
+   15
   ],
   [
    "OP12-061",
    "Donquixote Rosinante",
-   16
+   14
+  ],
+  [
+   "OP05-098",
+   "Enel",
+   13
   ],
   [
    "OP14-041",
    "Boa Hancock",
-   15
+   12
+  ],
+  [
+   "OP18-041",
+   "Ms. All Sunday",
+   11
+  ],
+  [
+   "OP18-079",
+   "Spandam",
+   10
+  ],
+  [
+   "OP13-004",
+   "Sabo",
+   10
+  ],
+  [
+   "ST10-002",
+   "Monkey.D.Luffy",
+   9
   ],
   [
    "OP09-081",
@@ -5196,26 +5368,6 @@
    "OP01-002",
    "Trafalgar Law",
    9
-  ],
-  [
-   "OP18-041",
-   "Ms. All Sunday",
-   8
-  ],
-  [
-   "ST10-002",
-   "Monkey.D.Luffy",
-   8
-  ],
-  [
-   "OP18-079",
-   "Spandam",
-   7
-  ],
-  [
-   "OP17-079",
-   "Monkey.D.Luffy",
-   7
   ]
  ]
 }
